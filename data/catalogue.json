@@ -57,7 +57,7 @@
       },
       {
         "name": "Ananias",
-        "url": "https://github.com/ananiasgame/ananias",
+        "url": "https://www.ananiasgame.com/",
         "description": "Browser and mobile-friendly roguelike dungeon game."
       },
       {
@@ -442,7 +442,7 @@
       },
       {
         "name": "FreeMars",
-        "url": "https://github.com/FreeMars/FreeMars",
+        "url": "https://sourceforge.net/projects/freemars/",
         "description": "Turn-based strategy game inspired by the classic Mars strategy genre."
       },
       {
@@ -607,7 +607,7 @@
       },
       {
         "name": "Kernel Panic",
-        "url": "https://github.com/ZeroK-RTS/Kernel-Panic",
+        "url": "https://springrts.com/wiki/Kernel_Panic",
         "description": "Fast-paced abstract RTS total conversion for the Spring engine."
       },
       {
@@ -712,7 +712,7 @@
       },
       {
         "name": "Open-KO",
-        "url": "https://github.com/Temuking/OpenKO",
+        "url": "https://github.com/Open-KO/KnightOnline",
         "description": "Knight Online reimplementation project."
       },
       {
@@ -782,7 +782,7 @@
       },
       {
         "name": "OpenKrush",
-        "url": "https://github.com/OpenKrush/OpenKrush",
+        "url": "https://github.com/IceReaper/OpenKrush",
         "description": "OpenRA-based reimplementation of KKnD and KKnD2."
       },
       {
@@ -812,7 +812,7 @@
       },
       {
         "name": "OpenSA",
-        "url": "https://github.com/OpenRA-Mods/OpenSA",
+        "url": "https://github.com/Dzierzan/OpenSA",
         "description": "OpenRA-based Swarm Assault reimplementation."
       },
       {
@@ -962,7 +962,7 @@
       },
       {
         "name": "Seven Kingdoms: Ancient Adversaries",
-        "url": "https://github.com/kallisti5/7kaa",
+        "url": "https://github.com/the3dfxdude/7kaa",
         "description": "Classic RTS released under an open-source license."
       },
       {
@@ -1012,7 +1012,7 @@
       },
       {
         "name": "Spring: 1944",
-        "url": "https://github.com/rennex/spring1944",
+        "url": "https://github.com/spring1944/spring1944",
         "description": "World War II RTS built for the Spring ecosystem."
       },
       {
@@ -1242,7 +1242,7 @@
       },
       {
         "name": "War1gus",
-        "url": "https://github.com/war1gus/war1gus",
+        "url": "https://github.com/Wargus/war1gus",
         "description": "Warcraft: Orcs & Humans implementation built on Stratagus."
       },
       {
@@ -1257,7 +1257,7 @@
       },
       {
         "name": "WarMUX",
-        "url": "https://github.com/warmux/warmux",
+        "url": "https://github.com/yeKcim/warmux",
         "description": "Turn-based artillery game with network multiplayer."
       },
       {

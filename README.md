@@ -211,7 +211,7 @@ These entries are intended to be playable games or game projects whose source co
 
 ## MMO & multiplayer
 
-- **[Open-KO](https://github.com/Temuking/OpenKO)** — Knight Online reimplementation project.
+- **[Open-KO](https://github.com/Open-KO/KnightOnline)** — Knight Online reimplementation project.
 
 ## Simulation & experimental
 
@@ -228,21 +228,21 @@ Additional verified open-source game projects. Projects that are primarily engin
 
 ### Strategy, tactics & 4X
 
-- **[FreeMars](https://github.com/FreeMars/FreeMars)** — Turn-based strategy game inspired by the classic Mars strategy genre.
-- **[WarMUX](https://github.com/warmux/warmux)** — Turn-based artillery game with network multiplayer.
-- **[War1gus](https://github.com/war1gus/war1gus)** — Warcraft: Orcs & Humans implementation built on Stratagus.
-- **[OpenKrush](https://github.com/OpenKrush/OpenKrush)** — OpenRA-based reimplementation of KKnD and KKnD2.
+- **[FreeMars](https://sourceforge.net/projects/freemars/)** — Turn-based strategy game inspired by the classic Mars strategy genre.
+- **[WarMUX](https://github.com/yeKcim/warmux)** — Turn-based artillery game with network multiplayer.
+- **[War1gus](https://github.com/Wargus/war1gus)** — Warcraft: Orcs & Humans implementation built on Stratagus.
+- **[OpenKrush](https://github.com/IceReaper/OpenKrush)** — OpenRA-based reimplementation of KKnD and KKnD2.
 - **[OpenE2140](https://github.com/OpenE2140/OpenE2140)** — OpenRA-based Earth 2140 reimplementation.
-- **[OpenSA](https://github.com/OpenRA-Mods/OpenSA)** — OpenRA-based Swarm Assault reimplementation.
+- **[OpenSA](https://github.com/Dzierzan/OpenSA)** — OpenRA-based Swarm Assault reimplementation.
 - **[Shattered Paradise](https://github.com/OpenRA/ra2)** — OpenRA-based Tiberian Sun-inspired community project.
 - **[MegaMek](https://github.com/MegaMek/megamek)** — Networked implementation of the BattleTech tabletop game.
 - **[MekHQ](https://github.com/MegaMek/mekhq)** — Campaign management companion for MegaMek.
-- **[Spring: 1944](https://github.com/rennex/spring1944)** — World War II RTS built for the Spring ecosystem.
-- **[Kernel Panic](https://github.com/ZeroK-RTS/Kernel-Panic)** — Fast-paced abstract RTS total conversion for the Spring engine.
+- **[Spring: 1944](https://github.com/spring1944/spring1944)** — World War II RTS built for the Spring ecosystem.
+- **[Kernel Panic](https://springrts.com/wiki/Kernel_Panic)** — Fast-paced abstract RTS total conversion for the Spring engine.
 - **[Evolution RTS](https://github.com/EvolutionRTS/Evolution-RTS)** — Open-source RTS built on the Spring engine.
 - **[Globulation 2](https://github.com/Globulation2/glob2)** — Innovative real-time strategy game with automated unit management.
 - **[OpenDungeons](https://github.com/OpenDungeons/OpenDungeons)** — Dungeon-management strategy game inspired by Dungeon Keeper.
-- **[Seven Kingdoms: Ancient Adversaries](https://github.com/kallisti5/7kaa)** — Classic RTS released under an open-source license.
+- **[Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa)** — Classic RTS released under an open-source license.
 - **[Ancient Beast](https://github.com/FreezingMoon/AncientBeast)** — Turn-based tactical strategy game with controllable creatures.
 - **[Curse of War](https://github.com/a-nikolaev/curseofwar)** — Fast-paced action strategy game with ncurses and SDL frontends.
 - **[Race into Space](https://github.com/raceintospace/raceintospace)** — Turn-based space race strategy game originally by Interplay, open-sourced and community maintained.
@@ -251,7 +251,7 @@ Additional verified open-source game projects. Projects that are primarily engin
 
 - **[Pixel Dungeon](https://github.com/watabou/pixel-dungeon)** — Classic open-source Android roguelike.
 - **[Yet Another Pixel Dungeon](https://github.com/OnlyLeigh/YetAnotherPixelDungeon)** — Community Pixel Dungeon variant.
-- **[Ananias](https://github.com/ananiasgame/ananias)** — Browser and mobile-friendly roguelike dungeon game.
+- **[Ananias](https://www.ananiasgame.com/)** — Browser and mobile-friendly roguelike dungeon game.
 - **[Sil-Q](https://github.com/sil-quirk/sil-q)** — Tolkien-inspired tactical roguelike derived from Angband.
 - **[Naev](https://github.com/naev/naev)** — 2D space exploration and combat RPG.
 - **[Arx Libertatis](https://github.com/arx/ArxLibertatis)** — Modern Arx Fatalis engine/port; original data is required.
