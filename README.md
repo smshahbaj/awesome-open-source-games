@@ -12,7 +12,7 @@
 
 **A curated, continuously maintained directory of open-source games, game reimplementations, engines, frameworks, tools, and learning resources.**
 
-[Explore games](#-open-source-games) · [Classic reimplementations](#-classic-reimplementations--source-ports) · [Engines](#-game-engines--frameworks) · [Changelog](CHANGELOG.md) · [Contribute](CONTRIBUTING.md)
+[Explore games](#-open-source-games) · [Classic reimplementations](#️-classic-reimplementations--source-ports) · [Engines](#-game-engines--frameworks) · [Changelog](CHANGELOG.md) · [Contribute](CONTRIBUTING.md)
 
 </div>
 
@@ -593,7 +593,7 @@ The list intentionally combines **curation** with **verification**.
 - Enough documentation to understand what the project is.
 - A source URL that can be verified.
 
-## We distinguish these cases
+### We distinguish these cases
 
 | Label | Meaning |
 |---|---|
@@ -699,6 +699,6 @@ If you know a project that belongs here, **[contribute it](CONTRIBUTING.md)**.
 
 <div align="center">
 
-<strong>Open source games are not just things to play — they're things to learn from. 🎮</strong>
+Open source games are not just things to play — they're things to learn from. 🎮
 
 </div>
