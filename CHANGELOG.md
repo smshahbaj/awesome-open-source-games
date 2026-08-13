@@ -41,4 +41,4 @@ First public release.
 
 ---
 
-[1.0.0]: https://github.com/smshahbaj/awesome-open-source-games/releases/tag/v1.0.0
+[1.0.0]: https://github.com/smshahbaj/awesome-open-source-games/releases

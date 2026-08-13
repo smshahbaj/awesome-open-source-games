@@ -93,10 +93,10 @@ These entries are intended to be playable games or game projects whose source co
 - **[Unciv](https://github.com/yairm210/Unciv)** — Open-source 4X strategy game inspired by Civilization V.
 - **[Colobot](https://github.com/colobot/colobot)** — Real-time strategy game where programming is part of the gameplay.
 - **[MegaGlest](https://github.com/megaglest/megaglest-source)** — Cross-platform 3D real-time strategy game.
-- **[Pax Britannica](https://github.com/krisives/pax-britannica)** — Minimalist underwater one-button RTS.
+- **[Pax Britannica](https://github.com/henkboom/pax-britannica)** — Minimalist underwater one-button RTS.
 - **[OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)** — Browser-based online real-time strategy project.
 - **[Athena Crisis](https://github.com/nkzw-tech/athena-crisis)** — Modern-retro turn-based tactical strategy game.
-- **[Open General](https://github.com/owain94/OpenGeneral)** — Open-source strategy engine inspired by Panzer General-style gameplay.
+- **[Open General](https://luis-tools.open-general.com/OpenGeneral.html)** — Open-source strategy engine inspired by Panzer General-style gameplay.
 - **[Wyrmsun](https://github.com/Andrettin/Wyrmsun)** — Strategy game combining history, mythology and fantasy.
 - **[Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms)** — Real-time strategy game inspired by classic Stronghold-style design.
 - **[KaM Remake](https://github.com/Kromster80/kam_remake)** — Open-source remake of Knights and Merchants.
@@ -109,7 +109,7 @@ These entries are intended to be playable games or game projects whose source co
 - **[Micropolis](https://github.com/SimHacker/micropolis)** — Open-source city-building game based on the original SimCity codebase.
 - **[Caesaria](https://github.com/dalerank/caesaria-game)** — Open-source Caesar III-inspired city-building project.
 - **[Egregoria](https://github.com/Uriopass/Egregoria)** — Indie city builder inspired by modern city simulators.
-- **[Freeserf.net](https://github.com/Siedler2/Freeserf.net)** — Open-source reimplementation of The Settlers I.
+- **[Freeserf.net](https://github.com/Pyrdacor/freeserf.net)** — Open-source reimplementation of The Settlers I.
 
 ## RPG & roguelike
 
@@ -120,11 +120,11 @@ These entries are intended to be playable games or game projects whose source co
 - **[Angband](https://github.com/angband/angband)** — Tolkien-inspired dungeon exploration roguelike.
 - **[KeeperRL](https://github.com/miki151/keeperrl)** — Roguelike dungeon-builder inspired by Dwarf Fortress.
 - **[Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)** — Open-source traditional roguelike for desktop and mobile.
-- **[OpenNefia](https://github.com/Elin-Modding/OpenNefia)** — Moddable open-source engine/reimplementation inspired by Elona.
+- **[OpenNefia](https://github.com/OpenNefia/OpenNefia)** — Moddable open-source engine/reimplementation inspired by Elona.
 - **[Flare](https://github.com/clintbellanger/flare-engine)** — Free/libre action-RPG engine and game ecosystem.
 - **[Valyria Tear](https://github.com/Bertram25/ValyriaTear)** — Open-source 2D J-RPG.
-- **[Monster RPG 2](https://github.com/Nooskewl/monster-rpg-2)** — Turn-based J-RPG with an original setting.
-- **[Crystal Picnic](https://github.com/Nooskewl/crystal-picnic)** — Colourful action-RPG project.
+- **[Monster RPG 2](https://www.nooskewl.com/walkthroughs/monster-rpg-2/25.html)** — Turn-based J-RPG with an original setting.
+- **[Crystal Picnic](https://www.nooskewl.com/)** — Colourful action-RPG project.
 - **[Egoboo](https://github.com/egoboo/egoboo)** — 3D dungeon-crawling RPG inspired by NetHack.
 - **[Dungeon Monkey Eternal](https://github.com/jwvhewitt/dmeternal)** — Party-based fantasy roguelike RPG.
 - **[Endless Sky](https://github.com/endless-sky/endless-sky)** — Space exploration, trading and combat RPG.
@@ -140,7 +140,7 @@ These entries are intended to be playable games or game projects whose source co
 - **[AssaultCube](https://github.com/assaultcube/AC)** — Lightweight multiplayer FPS.
 - **[Red Eclipse](https://github.com/redeclipse/base)** — Fast arena shooter based on Cube technology.
 - **[Liblast](https://codeberg.org/liblast/liblast)** — Libre multiplayer FPS built with Godot 4.
-- **[The Dark Mod](https://github.com/darkmod/thedarkmod)** — Open-source stealth FPS with a large mission ecosystem.
+- **[The Dark Mod](https://wiki.thedarkmod.com/index.php?title=The_Dark_Mod)** — Open-source stealth FPS with a large mission ecosystem.
 - **[Anarch](https://gitlab.com/drummyfish/anarch)** — Compact retro FPS with a deliberately minimal footprint.
 - **[Taisei Project](https://github.com/taisei-project/taisei)** — Open-source bullet-hell shoot-'em-up inspired by Touhou.
 - **[Teeworlds](https://github.com/teeworlds/teeworlds)** — Online multiplayer 2D shooter/platform game.
@@ -148,9 +148,9 @@ These entries are intended to be playable games or game projects whose source co
 - **[Darkest Hour](https://github.com/DarklightGames/DarkestHour)** — World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
 - **[DynaDungeons](https://github.com/akien-mga/dynadungeons)** — Bomberman clone built with the open source Godot game engine.
 - **[Chaos Projectile](https://github.com/WinterLicht/Chaos-Projectile)** — 2D run'n'gun action game with RPG elements.
-- **[OpenLieroX](https://github.com/allegator/olx)** — Real-time 2D artillery/action game inspired by Liero.
+- **[OpenLieroX](https://github.com/openlierox/openlierox)** — Real-time 2D artillery/action game inspired by Liero.
 - **[Space Station 14](https://github.com/space-wizards/space-station-14)** — Open-source multiplayer role-playing/simulation game inspired by Space Station 13.
-- **[Witch Blast](https://github.com/witchblast/witchblast)** — Open-source roguelite dungeon shooter.
+- **[Witch Blast](https://github.com/Cirrus-Minor/witchblast)** — Open-source roguelite dungeon shooter.
 - **[Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia)** — Competitive top-down multiplayer shooter.
 - **[Doomsday Engine](https://github.com/skyjake/Doomsday-Engine)** — Modern engine/source-port ecosystem for classic id games.
 
@@ -167,7 +167,7 @@ These entries are intended to be playable games or game projects whose source co
 - **[Sonic Robo Blast 2](https://git.do.srb2.org/STJr/SRB2)** — Open-source 3D Sonic fangame built on Doom technology.
 - **[DDraceNetwork](https://github.com/ddnet/ddnet)** — Cooperative online 2D platform game.
 - **[VVVVVV](https://github.com/TerryCavanagh/VVVVVV)** — Open-source release of the platform game VVVVVV.
-- **[Polly-B-Gone](https://github.com/aeonsoft/Polly-B-Gone)** — Physics-based platform game about a wheeled robot.
+- **[Polly-B-Gone](https://cs.stanford.edu/people/mbostock/polly/)** — Physics-based platform game about a wheeled robot.
 - **[Chromacore](https://github.com/Murkantilism/game-off-2013)** — Game Off-era 2D musical platformer.
 - **[Nodulus](https://github.com/Hyperparticle/nodulus)** — Mathematical puzzle game built around rotating cube-and-rod structures.
 
@@ -179,10 +179,10 @@ These entries are intended to be playable games or game projects whose source co
 - **[Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods)** — Vehicle physics and simulation sandbox.
 - **[TORCS](https://sourceforge.net/projects/torcs/)** — Open-source racing simulator.
 - **[Dust Racing 2D](https://github.com/juzzlin/DustRacing2D)** — Top-down racing game with level editor.
-- **[Extreme Tux Racer](https://github.com/extremetuxracer/extremetuxracer)** — Physics-driven downhill racing game.
+- **[Extreme Tux Racer](https://sourceforge.net/projects/extremetuxracer/)** — Physics-driven downhill racing game.
 - **[Pikifen](https://github.com/Espyo/Pikifen)** — Open-source Pikmin-inspired engine/game project.
 - **[Pooltool](https://github.com/ekiefl/pooltool)** — Billiards simulation and physics project.
-- **[YSFlight Community Edition](https://github.com/YSFlight/YSFlightCommunityEdition)** — Community-developed flight simulator branch.
+- **[YSFlight Community Edition](https://forum.ysfhq.com/viewtopic.php?t=11132)** — Community-developed flight simulator branch.
 
 ## Sandbox & survival
 
@@ -207,7 +207,7 @@ These entries are intended to be playable games or game projects whose source co
 - **[Hnefatafl](https://github.com/dcampbell24/hnefatafl)** — Open-source implementation of the historical board game.
 - **[C4](https://github.com/kenrick95/c4)** — Connect Four with AI in HTML/CSS/JS.
 - **[FreeCol](https://github.com/FreeCol/freecol)** — Turn-based strategy game inspired by Colonization.
-- **[OpenPanzer](https://github.com/OpenPanzer/openpanzer)** — Browser-based Panzer General-style strategy game.
+- **[OpenPanzer](https://github.com/nicupavel/openpanzer)** — Browser-based Panzer General-style strategy game.
 
 ## MMO & multiplayer
 
