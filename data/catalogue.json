@@ -17,7 +17,7 @@
       },
       {
         "name": "0hh1",
-        "url": "https://github.com/Q42/0hh1",
+        "url": "https://0hh1.com/",
         "description": "Logic puzzle game."
       },
       {
@@ -27,12 +27,12 @@
       },
       {
         "name": "2004scape",
-        "url": "https://github.com/2004scape/2004scape",
+        "url": "https://github.com/LostCityRS/Server",
         "description": "Open-source recreation of the 2004 RuneScape era."
       },
       {
         "name": "2006Scape",
-        "url": "https://github.com/2006-Scape/Server",
+        "url": "https://git.dark98.co.uk/2006-Scape/2006Scape",
         "description": "Open-source RuneScape-era server project."
       },
       {
@@ -47,7 +47,7 @@
       },
       {
         "name": "A Dark Room",
-        "url": "https://github.com/bitbrain/adr",
+        "url": "https://github.com/doublespeakgames/adarkroom",
         "description": "Minimalist browser-based incremental adventure game."
       },
       {
@@ -107,7 +107,7 @@
       },
       {
         "name": "Bos Wars",
-        "url": "https://github.com/boswars/boswars",
+        "url": "https://codeberg.org/boswars/boswars",
         "description": "Futuristic real-time strategy game."
       },
       {
@@ -127,12 +127,12 @@
       },
       {
         "name": "BurgerSpace",
-        "url": "https://github.com/vitaly-t/burgerspace",
+        "url": "https://sourceforge.net/projects/burgerspace/",
         "description": "Arcade game inspired by BurgerTime."
       },
       {
         "name": "Bygfoot",
-        "url": "https://github.com/bygfoot/bygfoot",
+        "url": "https://github.com/kashifsoofi/bygfoot",
         "description": "Football management simulation."
       },
       {
@@ -147,7 +147,7 @@
       },
       {
         "name": "C-evo",
-        "url": "https://github.com/c-evo/c-evo",
+        "url": "https://sourceforge.net/projects/c-evo-eh/",
         "description": "Turn-based empire-building strategy game."
       },
       {
@@ -177,7 +177,7 @@
       },
       {
         "name": "Cannon Smash",
-        "url": "https://github.com/zephyrus/cannonsmash",
+        "url": "https://sourceforge.net/projects/cannonsmash/",
         "description": "Table-tennis game."
       },
       {
@@ -282,12 +282,12 @@
       },
       {
         "name": "Dune Dynasty",
-        "url": "https://github.com/gameflorist/dune-dynasty",
+        "url": "https://github.com/gameflorist/dunedynasty",
         "description": "Dune II engine/reimplementation project."
       },
       {
         "name": "Dune Legacy",
-        "url": "https://github.com/dunelegacy/dunelegacy",
+        "url": "https://sourceforge.net/projects/dunelegacy/",
         "description": "Open-source Dune II-inspired RTS."
       },
       {
@@ -322,12 +322,12 @@
       },
       {
         "name": "Eat The Whistle",
-        "url": "https://github.com/ptitSeb/EatTheWhistle",
+        "url": "https://sourceforge.net/projects/eat-the-whistle/",
         "description": "Open football/soccer game."
       },
       {
         "name": "ECWolf",
-        "url": "https://github.com/ecwolf/ECWolf",
+        "url": "https://github.com/ECWolfEngine/ECWolf",
         "description": "Wolfenstein 3D engine/source port."
       },
       {
@@ -397,7 +397,7 @@
       },
       {
         "name": "Fanwor",
-        "url": "https://github.com/ekoeppen/fanwor",
+        "url": "https://fanwor.tuxfamily.org/",
         "description": "Classic top-down adventure game project."
       },
       {
@@ -492,12 +492,12 @@
       },
       {
         "name": "GL TRON",
-        "url": "https://github.com/FlorianLoitsch/gltron",
+        "url": "https://sourceforge.net/projects/gltron/",
         "description": "3D Tron light-cycle game."
       },
       {
         "name": "GL-117",
-        "url": "https://github.com/gl-117/gl-117",
+        "url": "https://sourceforge.net/projects/gl-117/",
         "description": "Flight simulator game."
       },
       {
@@ -517,22 +517,22 @@
       },
       {
         "name": "GNU Chess",
-        "url": "https://github.com/rmccallum/gnuchess",
+        "url": "https://www.gnu.org/software/chess/",
         "description": "Free software chess engine/game."
       },
       {
         "name": "GNU FreeDink",
-        "url": "https://github.com/free-dink/freedink",
+        "url": "https://www.gnu.org/software/freedink/",
         "description": "Open-source Dink Smallwood engine and game ecosystem."
       },
       {
         "name": "GNU Go",
-        "url": "https://github.com/ianbarber/gnugo",
+        "url": "https://www.gnu.org/software/gnugo/",
         "description": "Free software Go engine."
       },
       {
         "name": "GNU Shogi",
-        "url": "https://github.com/google/gnushogi",
+        "url": "https://www.gnu.org/software/gnushogi/",
         "description": "Free software Shogi engine."
       },
       {
@@ -582,12 +582,12 @@
       },
       {
         "name": "JSkat",
-        "url": "https://github.com/grundid/jskat",
+        "url": "https://github.com/b0n541/jskat",
         "description": "Open-source Skat card game."
       },
       {
         "name": "JSoko",
-        "url": "https://github.com/heiner7/JSoko",
+        "url": "https://sourceforge.net/projects/jsokoapplet/",
         "description": "Sokoban implementation and solver."
       },
       {
@@ -742,7 +742,7 @@
       },
       {
         "name": "OpenCiv1",
-        "url": "https://github.com/akbarnes/open-civ",
+        "url": "https://github.com/rajko-horvat/OpenCiv1",
         "description": "Civilization-style strategy implementation."
       },
       {
@@ -817,7 +817,7 @@
       },
       {
         "name": "OpenSolomonsKey",
-        "url": "https://github.com/minirop/OpenSolomonsKey",
+        "url": "https://sourceforge.net/projects/opensolomonskey/",
         "description": "Solomon's Key-inspired open game."
       },
       {
@@ -827,7 +827,7 @@
       },
       {
         "name": "OpenSupaplex",
-        "url": "https://github.com/sergey-koumirov/opensupaplex",
+        "url": "https://sourceforge.net/projects/opensupaplex/",
         "description": "Open-source Supaplex implementation."
       },
       {
@@ -887,7 +887,7 @@
       },
       {
         "name": "PipeWalker",
-        "url": "https://github.com/atsepkov/pipewalker",
+        "url": "https://sourceforge.net/projects/pipewalker/",
         "description": "Pipe-connection puzzle game."
       },
       {
@@ -932,7 +932,7 @@
       },
       {
         "name": "ReTux",
-        "url": "https://github.com/Retux/Retux",
+        "url": "https://github.com/LibreGames/retux",
         "description": "Open-source platformer inspired by SuperTux."
       },
       {
@@ -947,7 +947,7 @@
       },
       {
         "name": "Sandboxels",
-        "url": "https://github.com/ProllM/Sandboxels",
+        "url": "https://github.com/R74nCom/sandboxels",
         "description": "Browser-based falling-sand simulation."
       },
       {
@@ -987,7 +987,7 @@
       },
       {
         "name": "Smokin' Guns",
-        "url": "https://github.com/smokinguns/smokinguns",
+        "url": "https://github.com/smokin-guns/SmokinGuns",
         "description": "Western-themed FPS built on idTech technology."
       },
       {
@@ -1077,12 +1077,12 @@
       },
       {
         "name": "The Butterfly Effect",
-        "url": "https://github.com/tbeffect/tbeffect",
+        "url": "https://the-butterfly-effect.org/",
         "description": "Physics puzzle game."
       },
       {
         "name": "The Castles of Dr. Creep",
-        "url": "https://github.com/raz0red/DrCreep",
+        "url": "https://creep.sourceforge.net/",
         "description": "Open-source classic puzzle platform game."
       },
       {
@@ -1092,7 +1092,7 @@
       },
       {
         "name": "The Legend of Edgar",
-        "url": "https://github.com/stransky/edgar",
+        "url": "https://github.com/riksweeney/edgar",
         "description": "2D action-platformer with exploration and combat."
       },
       {
@@ -1142,7 +1142,7 @@
       },
       {
         "name": "Tux Rider",
-        "url": "https://github.com/tuxrider/tuxrider",
+        "url": "https://sourceforge.net/projects/tuxrider/",
         "description": "Open-source downhill snowboarding/racing game."
       },
       {
@@ -1232,7 +1232,7 @@
       },
       {
         "name": "WallBall",
-        "url": "https://github.com/WallBall/WallBall",
+        "url": "https://sourceforge.net/projects/wallball/",
         "description": "Open-source arcade game."
       },
       {
@@ -1252,7 +1252,7 @@
       },
       {
         "name": "Warfork",
-        "url": "https://github.com/TeamForbidden/Warfork",
+        "url": "https://github.com/Warfork/Warfork",
         "description": "Fast arena FPS descended from the Warsow ecosystem."
       },
       {
@@ -1307,7 +1307,7 @@
       },
       {
         "name": "Which Way Is Up?",
-        "url": "https://github.com/which-way-is-up/which-way-is-up",
+        "url": "https://sourceforge.net/projects/which-way-is-up/",
         "description": "Open-source platformer."
       },
       {
@@ -1317,7 +1317,7 @@
       },
       {
         "name": "Windstille",
-        "url": "https://github.com/andreas-volz/windstille",
+        "url": "https://sourceforge.net/projects/windstille/",
         "description": "Open-source game project."
       },
       {
@@ -1332,7 +1332,7 @@
       },
       {
         "name": "Wolf4SDL",
-        "url": "https://github.com/neuromancer/wolf4sdl",
+        "url": "https://github.com/lazd/wolf4sdl",
         "description": "Wolfenstein 3D source port."
       },
       {
@@ -1434,7 +1434,7 @@
       },
       {
         "name": "Doom 64 EX",
-        "url": "https://github.com/etranger-dev/Doom64EX",
+        "url": "https://github.com/atsb/Doom64EX-Classic",
         "description": "Doom 64 reverse-engineering/source recreation project."
       },
       {
@@ -1574,7 +1574,7 @@
       },
       {
         "name": "reone",
-        "url": "https://github.com/th3w1zard1/reone",
+        "url": "https://github.com/OldRepublicWizard/reone",
         "description": "Open-source engine capable of running Knights of the Old Republic games."
       },
       {

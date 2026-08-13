@@ -252,7 +252,7 @@ Additional verified open-source game projects. Projects that are primarily engin
 - **[Pixel Dungeon](https://github.com/watabou/pixel-dungeon)** — Classic open-source Android roguelike.
 - **[Yet Another Pixel Dungeon](https://github.com/OnlyLeigh/YetAnotherPixelDungeon)** — Community Pixel Dungeon variant.
 - **[Ananias](https://www.ananiasgame.com/)** — Browser and mobile-friendly roguelike dungeon game.
-- **[Sil-Q](https://github.com/sil-quirk/sil-q)** — Tolkien-inspired tactical roguelike derived from Angband.
+- **[Sil-Q](https://github.com/sil-quirk/sil-q-q)** — Tolkien-inspired tactical roguelike derived from Angband.
 - **[Naev](https://github.com/naev/naev)** — 2D space exploration and combat RPG.
 - **[Arx Libertatis](https://github.com/arx/ArxLibertatis)** — Modern Arx Fatalis engine/port; original data is required.
 - **[Cendric](https://github.com/tizian/Cendric2)** — Platformer-RPG in a fantasy setting with puzzle elements.
@@ -262,28 +262,28 @@ Additional verified open-source game projects. Projects that are primarily engin
 
 - **[OpenArena](https://github.com/OpenArena/engine)** — Free/open-source arena FPS based on idTech3 technology.
 - **[Tremulous](https://github.com/darklegion/tremulous)** — Asymmetric alien-versus-human FPS/RTS game.
-- **[Smokin' Guns](https://github.com/smokinguns/smokinguns)** — Western-themed FPS built on idTech technology.
+- **[Smokin' Guns](https://github.com/smokin-guns/SmokinGuns)** — Western-themed FPS built on idTech technology.
 - **[OpenSpades](https://github.com/yvt/openspades)** — Open-source Ace of Spades-compatible client.
-- **[Warfork](https://github.com/TeamForbidden/Warfork)** — Fast arena FPS descended from the Warsow ecosystem.
+- **[Warfork](https://github.com/Warfork/Warfork)** — Fast arena FPS descended from the Warsow ecosystem.
 - **[Turtle Arena](https://github.com/tycho/turtle-arena)** — Open-source third-person action game using Spearmint technology.
 - **[C-Dogs SDL](https://github.com/cxong/cdogs-sdl)** — Cooperative overhead run-and-gun action game.
 - **[SuperTux](https://github.com/SuperTux/supertux)** — Classic open-source platformer.
 - **[Secret Maryo Chronicles](https://github.com/Secretchronicles/SMC)** — Open-source 2D platformer.
-- **[The Legend of Edgar](https://github.com/stransky/edgar)** — 2D action-platformer with exploration and combat.
+- **[The Legend of Edgar](https://github.com/riksweeney/edgar)** — 2D action-platformer with exploration and combat.
 - **[Pingus](https://github.com/Pingus/pingus)** — Lemmings-inspired puzzle/strategy game.
 - **[Neverball](https://github.com/Neverball/neverball)** — 3D puzzle/arcade game focused on rolling a ball.
 - **[Frozen Bubble](https://github.com/kthakore/frozen-bubble)** — Colorful puzzle/arcade game with multiplayer.
 - **[OpenTyrian](https://github.com/opentyrian/opentyrian)** — Open-source port of the classic Tyrian shoot-'em-up.
 - **[Freedoom](https://github.com/freedoom/freedoom)** — Free software project providing a complete Doom-compatible game dataset.
 - **[Gish](https://github.com/blinry/gish)** — Physics-based platformer with released source code.
-- **[ReTux](https://github.com/Retux/Retux)** — Open-source platformer inspired by SuperTux.
+- **[ReTux](https://github.com/LibreGames/retux)** — Open-source platformer inspired by SuperTux.
 - **[Super Bombinhas](https://github.com/victords/super-bombinhas)** — Retro platformer with hand-crafted pixel art levels.
 - **[Double Damnation](https://github.com/TheYellowArchitect/doubledamnation)** — Exclusively co-op Metroidvania with movement inspired by Super Smash Bros. Melee.
 
 ### Racing, sports & vehicles
 
 - **[Stunt Rally](https://github.com/stuntrally/stuntrally)** — 3D rally game with a track editor.
-- **[Speed Dreams](https://github.com/jimmyorourke/speed-dreams)** — Open-source motorsport simulator.
+- **[Speed Dreams](https://sourceforge.net/projects/speed-dreams/)** — Open-source motorsport simulator.
 - **[VDrift](https://github.com/VDrift/vdrift)** — Open-source driving simulation.
 - **[VGA Golf](https://github.com/DraknekGames/VGAGolf)** — Retro-style golf project.
 - **[Performous](https://github.com/performous/performous)** — Open-source rhythm and singing game.
@@ -303,10 +303,10 @@ Additional verified open-source game projects. Projects that are primarily engin
 - **[Wolfcha](https://github.com/oil-oil/wolfcha)** — Werewolf (Mafia) social deduction game where every player is controlled by a language model bot, built with Next.js and TypeScript.
 - **[FreeChess](https://github.com/freechessclub/freechess)** — Open-source online chess software.
 - **[2048](https://github.com/gabrielecirulli/2048)** — Popular open-source sliding-number puzzle.
-- **[A Dark Room](https://github.com/bitbrain/adr)** — Minimalist browser-based incremental adventure game.
+- **[A Dark Room](https://github.com/doublespeakgames/adarkroom)** — Minimalist browser-based incremental adventure game.
 - **[Hextris](https://github.com/Hextris/hextris)** — Fast-paced hexagonal tile puzzle.
 - **[Untrusted](https://github.com/AlexNisnevich/untrusted)** — Meta-JavaScript adventure/puzzle game.
-- **[Sandboxels](https://github.com/ProllM/Sandboxels)** — Browser-based falling-sand simulation.
+- **[Sandboxels](https://github.com/R74nCom/sandboxels)** — Browser-based falling-sand simulation.
 - **[BrowserQuest](https://github.com/mozilla/BrowserQuest)** — HTML5 multiplayer RPG experiment.
 - **[Reia](https://github.com/Quaint-Studios/Reia)** — Action-adventure MMO RPG focused on story, combat, and open-world sandbox adventure, built with Godot, Rust, and Zig.
 - **[Backdooms](https://github.com/Kuberwastaken/backdooms)** — Browser FPS inspired by DOOM 1993 and The Backrooms, small enough to be self-contained inside a QR code.
@@ -320,7 +320,7 @@ Additional verified open-source game projects. Projects that are primarily engin
 - **[WarriorJS](https://github.com/olistic/warriorjs)** — Programming game where code controls a warrior.
 - **[Screeps](https://github.com/screeps/screeps)** — MMO programming game where JavaScript controls persistent colonies.
 - **[TIS-100](https://github.com/ian-albert/tis-100)** — Community implementations inspired by assembly-programming puzzle games.
-- **[0hh1](https://github.com/Q42/0hh1)** — Logic puzzle game.
+- **[0hh1](https://0hh1.com/)** — Logic puzzle game.
 - **[Game of Life](https://github.com/topics/conway-game-of-life)** — Large collection of open implementations and interactive variants.
 
 ## Additional open-source game projects
@@ -328,13 +328,13 @@ Additional verified open-source game projects. Projects that are primarily engin
 ### Strategy & simulation
 
 - **[OpenBW](https://github.com/bwapi/bwapi)** — Community tooling around StarCraft compatibility and bot development.
-- **[Bos Wars](https://github.com/boswars/boswars)** — Futuristic real-time strategy game.
-- **[OpenPanzer](https://github.com/akarnokd/openpanzer)** — Browser-based tactical strategy game.
+- **[Bos Wars](https://codeberg.org/boswars/boswars)** — Futuristic real-time strategy game.
+- **[OpenPanzer](https://github.com/nicupavel/openpanzer)** — Browser-based tactical strategy game.
 
 ### Roguelikes & RPGs
 
-- **[Brogue](https://github.com/jeremysalwen/Brogue)** — Classic Brogue source tree.
-- **[Sil](https://github.com/sil-quirk/sil)** — Silmarillion-inspired roguelike.
+- **[Brogue](https://github.com/tmewett/BrogueCE)** — Classic Brogue source tree.
+- **[Sil](https://github.com/sil-quirk/sil-q)** — Silmarillion-inspired roguelike.
 
 ### FPS & action
 
@@ -351,79 +351,79 @@ Additional verified open-source game projects. Projects that are primarily engin
 These entries are included for preservation, study, or historical value. **Inactive** does not mean unusable; it means development is no longer a primary reason for inclusion.
 
 - **[1oom](https://github.com/1oom-fork/1oom)** — Open-source engine for the classic Master of Orion-style 4X experience.
-- **[2004scape](https://github.com/2004scape/2004scape)** — Open-source recreation of the 2004 RuneScape era.
-- **[2006Scape](https://github.com/2006-Scape/Server)** — Open-source RuneScape-era server project.
+- **[2004scape](https://github.com/LostCityRS/Server)** — Open-source recreation of the 2004 RuneScape era.
+- **[2006Scape](https://git.dark98.co.uk/2006-Scape/2006Scape)** — Open-source RuneScape-era server project.
 - **[2009scape](https://gitlab.com/2009scape/2009scape)** — Open-source RuneScape-era server/client ecosystem.
 - **[BZFlag](https://github.com/BZFlag-Dev/bzflag)** — Multiplayer 3D tank battle game.
-- **[BurgerSpace](https://github.com/vitaly-t/burgerspace)** — Arcade game inspired by BurgerTime.
-- **[Bygfoot](https://github.com/bygfoot/bygfoot)** — Football management simulation.
-- **[C-evo](https://github.com/c-evo/c-evo)** — Turn-based empire-building strategy game.
+- **[BurgerSpace](https://sourceforge.net/projects/burgerspace/)** — Arcade game inspired by BurgerTime.
+- **[Bygfoot](https://github.com/kashifsoofi/bygfoot)** — Football management simulation.
+- **[C-evo](https://sourceforge.net/projects/c-evo-eh/)** — Turn-based empire-building strategy game.
 - **[Cabbages and Kings](https://github.com/cabbagesandkings/cabbagesandkings)** — Small open-source strategy/game project.
 - **[Cadaver](https://github.com/davidgiven/cadaver)** — Open-source adventure game recreation.
-- **[Cannon Smash](https://github.com/zephyrus/cannonsmash)** — Table-tennis game.
+- **[Cannon Smash](https://sourceforge.net/projects/cannonsmash/)** — Table-tennis game.
 - **[Cannonball](https://github.com/djyt/cannonball)** — Open-source OutRun engine recreation.
 - **[Captain Blood](https://github.com/danielest/CaptainBlood)** — Open-source classic sci-fi game project.
 - **[Cart Life](https://github.com/cartlife/cartlife)** — Open-source indie simulation/adventure game.
 - **[Castle of the Winds](https://github.com/ljw1004/cotw)** — Open-source revival of the classic Windows RPG.
 - **[Candy Box 2](https://github.com/candybox2/candybox2.github.io)** — Browser-based ASCII incremental adventure.
-- **[Dune Legacy](https://github.com/dunelegacy/dunelegacy)** — Open-source Dune II-inspired RTS.
-- **[Dune Dynasty](https://github.com/gameflorist/dune-dynasty)** — Dune II engine/reimplementation project.
+- **[Dune Legacy](https://sourceforge.net/projects/dunelegacy/)** — Open-source Dune II-inspired RTS.
+- **[Dune Dynasty](https://github.com/gameflorist/dunedynasty)** — Dune II engine/reimplementation project.
 - **[DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth)** — Source port of Descent and Descent II.
 - **[EasyRPG Player](https://github.com/EasyRPG/Player)** — Open-source RPG Maker 2000/2003-compatible player.
-- **[Eat The Whistle](https://github.com/ptitSeb/EatTheWhistle)** — Open football/soccer game.
-- **[ECWolf](https://github.com/ecwolf/ECWolf)** — Wolfenstein 3D engine/source port.
+- **[Eat The Whistle](https://sourceforge.net/projects/eat-the-whistle/)** — Open football/soccer game.
+- **[ECWolf](https://github.com/ECWolfEngine/ECWolf)** — Wolfenstein 3D engine/source port.
 - **[EDGE](https://github.com/edge-classic/EDGE-classic)** — Doom-family source port.
 - **[ET: Legacy](https://github.com/etlegacy/etlegacy)** — Open-source Wolfenstein: Enemy Territory engine/game client.
 - **[Etterna](https://github.com/etternagame/etterna)** — Open-source rhythm game.
 - **[Falltergeist](https://github.com/falltergeist/falltergeist)** — Fallout 2 engine recreation.
 - **[Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce)** — Modern Fallout engine recreation.
 - **[Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce)** — Modern Fallout 2 engine recreation.
-- **[Fanwor](https://github.com/ekoeppen/fanwor)** — Classic top-down adventure game project.
+- **[Fanwor](https://fanwor.tuxfamily.org/)** — Classic top-down adventure game project.
 - **[FAR Colony](https://github.com/efornara/fractured)** — Open-source colony/strategy experiment.
 - **[Faur](https://github.com/tepidstream/faur)** — Open-source experimental game project.
 - **[Gloomy Dungeons](https://github.com/gloomydungeons/gloomydungeons)** — Retro dungeon FPS project.
-- **[GL TRON](https://github.com/FlorianLoitsch/gltron)** — 3D Tron light-cycle game.
-- **[GL-117](https://github.com/gl-117/gl-117)** — Flight simulator game.
+- **[GL TRON](https://sourceforge.net/projects/gltron/)** — 3D Tron light-cycle game.
+- **[GL-117](https://sourceforge.net/projects/gl-117/)** — Flight simulator game.
 - **[Glest](https://github.com/glest/glest-source)** — Open-source fantasy RTS.
 - **[Goblin Camp](https://github.com/merlin91/goblin-camp)** — Colony simulation game.
-- **[GNU FreeDink](https://github.com/free-dink/freedink)** — Open-source Dink Smallwood engine and game ecosystem.
-- **[GNU Chess](https://github.com/rmccallum/gnuchess)** — Free software chess engine/game.
-- **[GNU Go](https://github.com/ianbarber/gnugo)** — Free software Go engine.
-- **[GNU Shogi](https://github.com/google/gnushogi)** — Free software Shogi engine.
+- **[GNU FreeDink](https://www.gnu.org/software/freedink/)** — Open-source Dink Smallwood engine and game ecosystem.
+- **[GNU Chess](https://www.gnu.org/software/chess/)** — Free software chess engine/game.
+- **[GNU Go](https://www.gnu.org/software/gnugo/)** — Free software Go engine.
+- **[GNU Shogi](https://www.gnu.org/software/gnushogi/)** — Free software Shogi engine.
 - **[JSettlers](https://github.com/jsettlers/Islanders)** — Open-source Settlers-style board game implementation.
-- **[JSkat](https://github.com/grundid/jskat)** — Open-source Skat card game.
-- **[JSoko](https://github.com/heiner7/JSoko)** — Sokoban implementation and solver.
+- **[JSkat](https://github.com/b0n541/jskat)** — Open-source Skat card game.
+- **[JSoko](https://sourceforge.net/projects/jsokoapplet/)** — Sokoban implementation and solver.
 - **[Jazz² Resurrection](https://github.com/deathkiller/jazz2)** — Open-source Jazz Jackrabbit 2 engine recreation.
 - **[Jet-Story](https://github.com/jetpacapp/jet-story)** — Open retro platform game project.
 - **[Jump 'n Bump](https://github.com/ajs/jumpnbump)** — Classic multiplayer platform game.
 - **[OpenBOR](https://github.com/DCurrent/openbor)** — Open beat-'em-up game engine and content ecosystem.
 - **[OpenBound](https://github.com/OpenBound/OpenBound)** — Open-source artillery game implementation.
 - **[OpenBVE](https://github.com/leezer3/OpenBVE)** — Open-source train simulator.
-- **[OpenCiv1](https://github.com/akbarnes/open-civ)** — Civilization-style strategy implementation.
+- **[OpenCiv1](https://github.com/rajko-horvat/OpenCiv1)** — Civilization-style strategy implementation.
 - **[OpenDUNE](https://github.com/OpenDUNE/OpenDUNE)** — Dune II engine recreation.
 - **[OpenKeeper](https://github.com/tonihele/OpenKeeper)** — Dungeon Keeper engine recreation.
 - **[OpenNox](https://github.com/noxworld-dev/opennox)** — Nox engine recreation and modernization.
 - **[OpenOMF](https://github.com/omf2097/openomf)** — One Must Fall 2097 engine recreation.
-- **[OpenSolomonsKey](https://github.com/minirop/OpenSolomonsKey)** — Solomon's Key-inspired open game.
-- **[OpenSupaplex](https://github.com/sergey-koumirov/opensupaplex)** — Open-source Supaplex implementation.
+- **[OpenSolomonsKey](https://sourceforge.net/projects/opensolomonskey/)** — Solomon's Key-inspired open game.
+- **[OpenSupaplex](https://sourceforge.net/projects/opensupaplex/)** — Open-source Supaplex implementation.
 - **[OpenTriad](https://github.com/TripleTriad/triad)** — Final Fantasy-style Triple Triad implementation.
 - **[OpenWebSoccer](https://github.com/ndee/websoccer)** — Browser-based football management game.
 - **[OPMon](https://github.com/OpMonTeam/OpMon)** — Open-source monster-collecting RPG project.
 - **[Pioneers](https://github.com/fd0/pioneers)** — Open-source Settlers-style board game.
 - **[Pixel Wheels](https://github.com/agateau/pixelwheels)** — Open-source top-down arcade racing game.
-- **[PipeWalker](https://github.com/atsepkov/pipewalker)** — Pipe-connection puzzle game.
-- **[The Butterfly Effect](https://github.com/tbeffect/tbeffect)** — Physics puzzle game.
-- **[The Castles of Dr. Creep](https://github.com/raz0red/DrCreep)** — Open-source classic puzzle platform game.
+- **[PipeWalker](https://sourceforge.net/projects/pipewalker/)** — Pipe-connection puzzle game.
+- **[The Butterfly Effect](https://the-butterfly-effect.org/)** — Physics puzzle game.
+- **[The Castles of Dr. Creep](https://creep.sourceforge.net/)** — Open-source classic puzzle platform game.
 - **[The Mana World](https://github.com/themanaworld/tmwa)** — Open-source MMORPG project.
 - **[Tuxemon](https://github.com/Tuxemon/Tuxemon)** — Open monster-collecting RPG.
-- **[Tux Rider](https://github.com/tuxrider/tuxrider)** — Open-source downhill snowboarding/racing game.
+- **[Tux Rider](https://sourceforge.net/projects/tuxrider/)** — Open-source downhill snowboarding/racing game.
 - **[Vega Strike](https://github.com/vegastrike/Vega-Strike-Engine-Source)** — Open space-combat and trading game.
 - **[Violetland](https://github.com/ooxi/violetland)** — Open top-down action game.
 - **[vitetris](https://github.com/vicgeralds/vitetris)** — Terminal Tetris implementation.
 - **[Voxeland](https://github.com/Voxelands/Voxelands)** — Voxel sandbox game.
 - **[Vulture's Eye](https://github.com/mcneight/vultures-eye)** — Graphical roguelike client/game project.
 - **[Wagic](https://github.com/WagicProject/wagic)** — Open homebrew trading-card game project.
-- **[WallBall](https://github.com/WallBall/WallBall)** — Open-source arcade game.
+- **[WallBall](https://sourceforge.net/projects/wallball/)** — Open-source arcade game.
 - **[War1](https://github.com/war1/war1)** — Open Warcraft-style strategy project.
 - **[Warcraft Remake](https://github.com/warcraft-remake/warcraft-remake)** — Open Warcraft-inspired remake project.
 - **[Waste's Edge](https://github.com/rioki/wastesedge)** — Open-source tactical/strategy game.
@@ -431,9 +431,9 @@ These entries are included for preservation, study, or historical value. **Inact
 - **[WAtomic](https://github.com/sergejsha/WAtomic)** — Atomic puzzle game.
 - **[WebFun](https://github.com/webfun-game/webfun)** — Browser game project.
 - **[WebChess](https://github.com/ihsanullah/WebChess)** — Open-source browser chess.
-- **[Which Way Is Up?](https://github.com/which-way-is-up/which-way-is-up)** — Open-source platformer.
-- **[Windstille](https://github.com/andreas-volz/windstille)** — Open-source game project.
-- **[Wolf4SDL](https://github.com/neuromancer/wolf4sdl)** — Wolfenstein 3D source port.
+- **[Which Way Is Up?](https://sourceforge.net/projects/which-way-is-up/)** — Open-source platformer.
+- **[Windstille](https://sourceforge.net/projects/windstille/)** — Open-source game project.
+- **[Wolf4SDL](https://github.com/lazd/wolf4sdl)** — Wolfenstein 3D source port.
 - **[Wolfpack Empire](https://github.com/wolfpackempire/wolfpack)** — Multiplayer text-based strategy game.
 - **[X-Moto](https://github.com/xmoto/xmoto)** — Physics-based motocross platform/racing game.
 - **[Xargon](https://github.com/jeff-1amstudios/xargon)** — Open-source classic platform game project.
@@ -473,9 +473,9 @@ These projects are especially useful for studying reverse engineering, compatibi
 - **[EDuke32](https://voidpoint.io/terminx/eduke32)** — Build-engine source port ecosystem.
 - **[Raze](https://github.com/ZDoom/Raze)** — Modern Build-engine port.
 - **[NBlood](https://github.com/NBlood/NBlood)** — Blood source port built on EDuke32 technology.
-- **[Rednukem](https://github.com/NBlood/Rednukem)** — Redneck Rampage source port.
+- **[Rednukem](https://github.com/NBlood/NBlood)** — Redneck Rampage source port.
 - **[BuildGDX](https://github.com/vogonsorg/BuildGDX)** — Java Build-engine port framework.
-- **[Doom 64 EX](https://github.com/etranger-dev/Doom64EX)** — Doom 64 reverse-engineering/source recreation project.
+- **[Doom 64 EX](https://github.com/atsb/Doom64EX-Classic)** — Doom 64 reverse-engineering/source recreation project.
 - **[OpenRA](https://github.com/OpenRA/OpenRA)** — Reimplementation/modding platform for classic Westwood RTS games.
 - **[Wargus](https://github.com/Wargus/wargus)** — Warcraft II mod built on Stratagus.
 - **[OpenFodder](https://github.com/OpenFodder/openfodder)** — Open-source port of Cannon Fodder; original game data remains separately licensed.
@@ -485,7 +485,7 @@ These projects are especially useful for studying reverse engineering, compatibi
 - **[OpenLoco](https://github.com/OpenLoco/OpenLoco)** — Locomotion reimplementation.
 - **[ScummVM](https://github.com/scummvm/scummvm)** — Portable runtime for many classic adventure games.
 - **[GemRB](https://github.com/gemrb/gemrb)** — Infinity Engine reimplementation.
-- **[reone](https://github.com/th3w1zard1/reone)** — Open-source engine capable of running Knights of the Old Republic games.
+- **[reone](https://github.com/OldRepublicWizard/reone)** — Open-source engine capable of running Knights of the Old Republic games.
 - **[RVGL](https://gitlab.com/re-volt/rvgl)** — Re-Volt source port/rewrite.
 - **[OpenTomb](https://github.com/opentomb/OpenTomb)** — Open-source Tomb Raider 1–5 engine remake.
 - **[OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty)** — Open-source reimplementation of Grand Theft Auto III on the Godot Engine.
@@ -553,7 +553,7 @@ These are **development technologies**, not games. Keeping them separate avoids 
 - **[raylib Examples](https://github.com/raysan5/raylib/tree/master/examples)** — Large collection of approachable examples.
 - **[OpenRA Wiki](https://github.com/OpenRA/OpenRA/wiki)** — Engine, modding and mapping documentation.
 - **[MonoGame Documentation](https://docs.monogame.net/)** — Framework documentation and tutorials.
-- **[LÖVE Wiki](https://github.com/love2d-community/love2d.org/wiki)** — Lua game-development references.
+- **[LÖVE Wiki](https://love2d.org/wiki)** — Lua game-development references.
 - **[Phaser Examples](https://github.com/phaserjs/examples)** — Browser-game examples.
 - **[Tiled Documentation](https://doc.mapeditor.org/)** — Level-design and map-editing documentation.
 - **[Game Programming Patterns](https://gameprogrammingpatterns.com/)** — Free online book about reusable game architecture patterns.
