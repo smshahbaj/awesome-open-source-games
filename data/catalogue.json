@@ -1,0 +1,1826 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "release_date": "2025-08-13",
+  "counts": {
+    "games": 275,
+    "reimplementations": 49,
+    "engines": 22,
+    "tools": 15
+  },
+  "entries": {
+    "games": [
+      {
+        "name": "0 A.D.",
+        "url": "https://github.com/0ad/0ad",
+        "description": "Free, open-source historical real-time strategy game."
+      },
+      {
+        "name": "0hh1",
+        "url": "https://github.com/Q42/0hh1",
+        "description": "Logic puzzle game."
+      },
+      {
+        "name": "1oom",
+        "url": "https://github.com/1oom-fork/1oom",
+        "description": "Open-source engine for the classic Master of Orion-style 4X experience."
+      },
+      {
+        "name": "2004scape",
+        "url": "https://github.com/2004scape/2004scape",
+        "description": "Open-source recreation of the 2004 RuneScape era."
+      },
+      {
+        "name": "2006Scape",
+        "url": "https://github.com/2006-Scape/Server",
+        "description": "Open-source RuneScape-era server project."
+      },
+      {
+        "name": "2009scape",
+        "url": "https://gitlab.com/2009scape/2009scape",
+        "description": "Open-source RuneScape-era server/client ecosystem."
+      },
+      {
+        "name": "2048",
+        "url": "https://github.com/gabrielecirulli/2048",
+        "description": "Popular open-source sliding-number puzzle."
+      },
+      {
+        "name": "A Dark Room",
+        "url": "https://github.com/bitbrain/adr",
+        "description": "Minimalist browser-based incremental adventure game."
+      },
+      {
+        "name": "AAAAXY",
+        "url": "https://github.com/divverent/aaaaxy",
+        "description": "Nonlinear 2D puzzle-platformer set in impossible spaces."
+      },
+      {
+        "name": "Ananias",
+        "url": "https://github.com/ananiasgame/ananias",
+        "description": "Browser and mobile-friendly roguelike dungeon game."
+      },
+      {
+        "name": "Anarch",
+        "url": "https://gitlab.com/drummyfish/anarch",
+        "description": "Compact retro FPS with a deliberately minimal footprint."
+      },
+      {
+        "name": "Ancient Beast",
+        "url": "https://github.com/FreezingMoon/AncientBeast",
+        "description": "Turn-based tactical strategy game with controllable creatures."
+      },
+      {
+        "name": "Angband",
+        "url": "https://github.com/angband/angband",
+        "description": "Tolkien-inspired dungeon exploration roguelike."
+      },
+      {
+        "name": "Arx Libertatis",
+        "url": "https://github.com/arx/ArxLibertatis",
+        "description": "Modern Arx Fatalis engine/port; original data is required."
+      },
+      {
+        "name": "AssaultCube",
+        "url": "https://github.com/assaultcube/AC",
+        "description": "Lightweight multiplayer FPS."
+      },
+      {
+        "name": "Athena Crisis",
+        "url": "https://github.com/nkzw-tech/athena-crisis",
+        "description": "Modern-retro turn-based tactical strategy game."
+      },
+      {
+        "name": "Backdooms",
+        "url": "https://github.com/Kuberwastaken/backdooms",
+        "description": "Browser FPS inspired by DOOM 1993 and The Backrooms, small enough to be self-contained inside a QR code."
+      },
+      {
+        "name": "Beyond All Reason",
+        "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+        "description": "Large-scale open-source RTS descended from the Spring ecosystem."
+      },
+      {
+        "name": "Blackvoxel",
+        "url": "https://github.com/Blackvoxel/Blackvoxel",
+        "description": "Voxel sandbox focused on simulation and experimentation."
+      },
+      {
+        "name": "Bos Wars",
+        "url": "https://github.com/boswars/boswars",
+        "description": "Futuristic real-time strategy game."
+      },
+      {
+        "name": "Brogue",
+        "url": "https://github.com/jeremysalwen/Brogue",
+        "description": "Classic Brogue source tree."
+      },
+      {
+        "name": "Brogue CE",
+        "url": "https://github.com/tmewett/BrogueCE",
+        "description": "Minimalist turn-based procedural roguelike."
+      },
+      {
+        "name": "BrowserQuest",
+        "url": "https://github.com/mozilla/BrowserQuest",
+        "description": "HTML5 multiplayer RPG experiment."
+      },
+      {
+        "name": "BurgerSpace",
+        "url": "https://github.com/vitaly-t/burgerspace",
+        "description": "Arcade game inspired by BurgerTime."
+      },
+      {
+        "name": "Bygfoot",
+        "url": "https://github.com/bygfoot/bygfoot",
+        "description": "Football management simulation."
+      },
+      {
+        "name": "BZFlag",
+        "url": "https://github.com/BZFlag-Dev/bzflag",
+        "description": "Multiplayer 3D tank battle game."
+      },
+      {
+        "name": "C-Dogs SDL",
+        "url": "https://github.com/cxong/cdogs-sdl",
+        "description": "Cooperative overhead run-and-gun action game."
+      },
+      {
+        "name": "C-evo",
+        "url": "https://github.com/c-evo/c-evo",
+        "description": "Turn-based empire-building strategy game."
+      },
+      {
+        "name": "C4",
+        "url": "https://github.com/kenrick95/c4",
+        "description": "Connect Four with AI in HTML/CSS/JS."
+      },
+      {
+        "name": "Cabbages and Kings",
+        "url": "https://github.com/cabbagesandkings/cabbagesandkings",
+        "description": "Small open-source strategy/game project."
+      },
+      {
+        "name": "Cadaver",
+        "url": "https://github.com/davidgiven/cadaver",
+        "description": "Open-source adventure game recreation."
+      },
+      {
+        "name": "Caesaria",
+        "url": "https://github.com/dalerank/caesaria-game",
+        "description": "Open-source Caesar III-inspired city-building project."
+      },
+      {
+        "name": "Candy Box 2",
+        "url": "https://github.com/candybox2/candybox2.github.io",
+        "description": "Browser-based ASCII incremental adventure."
+      },
+      {
+        "name": "Cannon Smash",
+        "url": "https://github.com/zephyrus/cannonsmash",
+        "description": "Table-tennis game."
+      },
+      {
+        "name": "Cannonball",
+        "url": "https://github.com/djyt/cannonball",
+        "description": "Open-source OutRun engine recreation."
+      },
+      {
+        "name": "Captain Blood",
+        "url": "https://github.com/danielest/CaptainBlood",
+        "description": "Open-source classic sci-fi game project."
+      },
+      {
+        "name": "Cart Life",
+        "url": "https://github.com/cartlife/cartlife",
+        "description": "Open-source indie simulation/adventure game."
+      },
+      {
+        "name": "Castle of the Winds",
+        "url": "https://github.com/ljw1004/cotw",
+        "description": "Open-source revival of the classic Windows RPG."
+      },
+      {
+        "name": "Cataclysm: Bright Nights",
+        "url": "https://github.com/cataclysmbnteam/Cataclysm-BN",
+        "description": "Community fork of Cataclysm: DDA."
+      },
+      {
+        "name": "Cataclysm: Dark Days Ahead",
+        "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+        "description": "Deep post-apocalyptic survival roguelike."
+      },
+      {
+        "name": "Cendric",
+        "url": "https://github.com/tizian/Cendric2",
+        "description": "Platformer-RPG in a fantasy setting with puzzle elements."
+      },
+      {
+        "name": "Chaos Projectile",
+        "url": "https://github.com/WinterLicht/Chaos-Projectile",
+        "description": "2D run'n'gun action game with RPG elements."
+      },
+      {
+        "name": "Chessmata",
+        "url": "https://github.com/jonradoff/chessmata",
+        "description": "Open-source multiplayer chess platform with real-time WebSocket gameplay, Elo-based matchmaking, 3D browser board, and UCI-compatible CLI."
+      },
+      {
+        "name": "Chromacore",
+        "url": "https://github.com/Murkantilism/game-off-2013",
+        "description": "Game Off-era 2D musical platformer."
+      },
+      {
+        "name": "Citybound",
+        "url": "https://github.com/citybound/citybound",
+        "description": "Experimental city simulator based on emergent systems."
+      },
+      {
+        "name": "Colobot",
+        "url": "https://github.com/colobot/colobot",
+        "description": "Real-time strategy game where programming is part of the gameplay."
+      },
+      {
+        "name": "Craft",
+        "url": "https://github.com/fogleman/Craft",
+        "description": "Small Minecraft-inspired C/OpenGL game."
+      },
+      {
+        "name": "Crystal Picnic",
+        "url": "https://github.com/Nooskewl/crystal-picnic",
+        "description": "Colourful action-RPG project."
+      },
+      {
+        "name": "Curse of War",
+        "url": "https://github.com/a-nikolaev/curseofwar",
+        "description": "Fast-paced action strategy game with ncurses and SDL frontends."
+      },
+      {
+        "name": "Cytopia",
+        "url": "https://github.com/CytopiaTeam/Cytopia",
+        "description": "Retro pixel-art city-building game."
+      },
+      {
+        "name": "Darkest Hour",
+        "url": "https://github.com/DarklightGames/DarkestHour",
+        "description": "World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront."
+      },
+      {
+        "name": "DDraceNetwork",
+        "url": "https://github.com/ddnet/ddnet",
+        "description": "Cooperative online 2D platform game."
+      },
+      {
+        "name": "Doomsday Engine",
+        "url": "https://github.com/skyjake/Doomsday-Engine",
+        "description": "Modern engine/source-port ecosystem for classic id games."
+      },
+      {
+        "name": "Double Damnation",
+        "url": "https://github.com/TheYellowArchitect/doubledamnation",
+        "description": "Exclusively co-op Metroidvania with movement inspired by Super Smash Bros. Melee."
+      },
+      {
+        "name": "Dune Dynasty",
+        "url": "https://github.com/gameflorist/dune-dynasty",
+        "description": "Dune II engine/reimplementation project."
+      },
+      {
+        "name": "Dune Legacy",
+        "url": "https://github.com/dunelegacy/dunelegacy",
+        "description": "Open-source Dune II-inspired RTS."
+      },
+      {
+        "name": "Dungeon Crawl Stone Soup",
+        "url": "https://github.com/crawl/crawl",
+        "description": "Classic open-source dungeon roguelike."
+      },
+      {
+        "name": "Dungeon Monkey Eternal",
+        "url": "https://github.com/jwvhewitt/dmeternal",
+        "description": "Party-based fantasy roguelike RPG."
+      },
+      {
+        "name": "Dust Racing 2D",
+        "url": "https://github.com/juzzlin/DustRacing2D",
+        "description": "Top-down racing game with level editor."
+      },
+      {
+        "name": "DXX-Rebirth",
+        "url": "https://github.com/dxx-rebirth/dxx-rebirth",
+        "description": "Source port of Descent and Descent II."
+      },
+      {
+        "name": "DynaDungeons",
+        "url": "https://github.com/akien-mga/dynadungeons",
+        "description": "Bomberman clone built with the open source Godot game engine."
+      },
+      {
+        "name": "EasyRPG Player",
+        "url": "https://github.com/EasyRPG/Player",
+        "description": "Open-source RPG Maker 2000/2003-compatible player."
+      },
+      {
+        "name": "Eat The Whistle",
+        "url": "https://github.com/ptitSeb/EatTheWhistle",
+        "description": "Open football/soccer game."
+      },
+      {
+        "name": "ECWolf",
+        "url": "https://github.com/ecwolf/ECWolf",
+        "description": "Wolfenstein 3D engine/source port."
+      },
+      {
+        "name": "EDGE",
+        "url": "https://github.com/edge-classic/EDGE-classic",
+        "description": "Doom-family source port."
+      },
+      {
+        "name": "Egoboo",
+        "url": "https://github.com/egoboo/egoboo",
+        "description": "3D dungeon-crawling RPG inspired by NetHack."
+      },
+      {
+        "name": "Egregoria",
+        "url": "https://github.com/Uriopass/Egregoria",
+        "description": "Indie city builder inspired by modern city simulators."
+      },
+      {
+        "name": "EmptyEpsilon",
+        "url": "https://github.com/daid/EmptyEpsilon",
+        "description": "Multiplayer bridge simulator inspired by science-fiction starship crews."
+      },
+      {
+        "name": "Endless Sky",
+        "url": "https://github.com/endless-sky/endless-sky",
+        "description": "Space exploration, trading and combat RPG."
+      },
+      {
+        "name": "Enigma",
+        "url": "https://github.com/Enigma-Game/Enigma",
+        "description": "Puzzle game inspired by Oxyd."
+      },
+      {
+        "name": "ET: Legacy",
+        "url": "https://github.com/etlegacy/etlegacy",
+        "description": "Open-source Wolfenstein: Enemy Territory engine/game client."
+      },
+      {
+        "name": "Etterna",
+        "url": "https://github.com/etternagame/etterna",
+        "description": "Open-source rhythm game."
+      },
+      {
+        "name": "Evolution RTS",
+        "url": "https://github.com/EvolutionRTS/Evolution-RTS",
+        "description": "Open-source RTS built on the Spring engine."
+      },
+      {
+        "name": "Extreme Tux Racer",
+        "url": "https://github.com/extremetuxracer/extremetuxracer",
+        "description": "Physics-driven downhill racing game."
+      },
+      {
+        "name": "Fallout 2 Community Edition",
+        "url": "https://github.com/alexbatalov/fallout2-ce",
+        "description": "Modern Fallout 2 engine recreation."
+      },
+      {
+        "name": "Fallout Community Edition",
+        "url": "https://github.com/alexbatalov/fallout1-ce",
+        "description": "Modern Fallout engine recreation."
+      },
+      {
+        "name": "Falltergeist",
+        "url": "https://github.com/falltergeist/falltergeist",
+        "description": "Fallout 2 engine recreation."
+      },
+      {
+        "name": "Fanwor",
+        "url": "https://github.com/ekoeppen/fanwor",
+        "description": "Classic top-down adventure game project."
+      },
+      {
+        "name": "FAR Colony",
+        "url": "https://github.com/efornara/fractured",
+        "description": "Open-source colony/strategy experiment."
+      },
+      {
+        "name": "Faur",
+        "url": "https://github.com/tepidstream/faur",
+        "description": "Open-source experimental game project."
+      },
+      {
+        "name": "Flare",
+        "url": "https://github.com/clintbellanger/flare-engine",
+        "description": "Free/libre action-RPG engine and game ecosystem."
+      },
+      {
+        "name": "FreeChess",
+        "url": "https://github.com/freechessclub/freechess",
+        "description": "Open-source online chess software."
+      },
+      {
+        "name": "Freeciv",
+        "url": "https://github.com/freeciv/freeciv",
+        "description": "Open-source empire-building strategy game inspired by Civilization."
+      },
+      {
+        "name": "Freeciv-web",
+        "url": "https://github.com/freeciv/freeciv-web",
+        "description": "Browser-based Civilization-style strategy game."
+      },
+      {
+        "name": "FreeCol",
+        "url": "https://github.com/FreeCol/freecol",
+        "description": "Turn-based strategy game inspired by Colonization."
+      },
+      {
+        "name": "Freedoom",
+        "url": "https://github.com/freedoom/freedoom",
+        "description": "Free software project providing a complete Doom-compatible game dataset."
+      },
+      {
+        "name": "FreeMars",
+        "url": "https://github.com/FreeMars/FreeMars",
+        "description": "Turn-based strategy game inspired by the classic Mars strategy genre."
+      },
+      {
+        "name": "Freeminer",
+        "url": "https://github.com/freeminer/freeminer",
+        "description": "Minecraft-inspired voxel sandbox."
+      },
+      {
+        "name": "FreeOrion",
+        "url": "https://github.com/freeorion/freeorion",
+        "description": "Turn-based 4X space strategy game."
+      },
+      {
+        "name": "Freeserf",
+        "url": "https://github.com/Siedler2/OpenSiedler",
+        "description": "Open reimplementation of The Settlers."
+      },
+      {
+        "name": "Freeserf.net",
+        "url": "https://github.com/Siedler2/Freeserf.net",
+        "description": "Open-source reimplementation of The Settlers I."
+      },
+      {
+        "name": "Frets on Fire X",
+        "url": "https://github.com/fofix/fofix",
+        "description": "Community rhythm-game fork with guitar-style gameplay."
+      },
+      {
+        "name": "Frogatto & Friends",
+        "url": "https://github.com/frogatto/frogatto",
+        "description": "Action-adventure platformer starring a frog hero."
+      },
+      {
+        "name": "Frozen Bubble",
+        "url": "https://github.com/kthakore/frozen-bubble",
+        "description": "Colorful puzzle/arcade game with multiplayer."
+      },
+      {
+        "name": "Game of Life",
+        "url": "https://github.com/topics/conway-game-of-life",
+        "description": "Large collection of open implementations and interactive variants."
+      },
+      {
+        "name": "Gish",
+        "url": "https://github.com/blinry/gish",
+        "description": "Physics-based platformer with released source code."
+      },
+      {
+        "name": "GL TRON",
+        "url": "https://github.com/FlorianLoitsch/gltron",
+        "description": "3D Tron light-cycle game."
+      },
+      {
+        "name": "GL-117",
+        "url": "https://github.com/gl-117/gl-117",
+        "description": "Flight simulator game."
+      },
+      {
+        "name": "Glest",
+        "url": "https://github.com/glest/glest-source",
+        "description": "Open-source fantasy RTS."
+      },
+      {
+        "name": "Globulation 2",
+        "url": "https://github.com/Globulation2/glob2",
+        "description": "Innovative real-time strategy game with automated unit management."
+      },
+      {
+        "name": "Gloomy Dungeons",
+        "url": "https://github.com/gloomydungeons/gloomydungeons",
+        "description": "Retro dungeon FPS project."
+      },
+      {
+        "name": "GNU Chess",
+        "url": "https://github.com/rmccallum/gnuchess",
+        "description": "Free software chess engine/game."
+      },
+      {
+        "name": "GNU FreeDink",
+        "url": "https://github.com/free-dink/freedink",
+        "description": "Open-source Dink Smallwood engine and game ecosystem."
+      },
+      {
+        "name": "GNU Go",
+        "url": "https://github.com/ianbarber/gnugo",
+        "description": "Free software Go engine."
+      },
+      {
+        "name": "GNU Shogi",
+        "url": "https://github.com/google/gnushogi",
+        "description": "Free software Shogi engine."
+      },
+      {
+        "name": "Goblin Camp",
+        "url": "https://github.com/merlin91/goblin-camp",
+        "description": "Colony simulation game."
+      },
+      {
+        "name": "Hedgewars",
+        "url": "https://github.com/hedgewars/hw",
+        "description": "Turn-based artillery strategy game with a humorous presentation."
+      },
+      {
+        "name": "HexGL",
+        "url": "https://github.com/BKcore/HexGL",
+        "description": "WebGL futuristic racing game."
+      },
+      {
+        "name": "Hextris",
+        "url": "https://github.com/Hextris/hextris",
+        "description": "Fast-paced hexagonal tile puzzle."
+      },
+      {
+        "name": "Hnefatafl",
+        "url": "https://github.com/dcampbell24/hnefatafl",
+        "description": "Open-source implementation of the historical board game."
+      },
+      {
+        "name": "Hypersomnia",
+        "url": "https://github.com/TeamHypersomnia/Hypersomnia",
+        "description": "Competitive top-down multiplayer shooter."
+      },
+      {
+        "name": "Jazz² Resurrection",
+        "url": "https://github.com/deathkiller/jazz2",
+        "description": "Open-source Jazz Jackrabbit 2 engine recreation."
+      },
+      {
+        "name": "Jet-Story",
+        "url": "https://github.com/jetpacapp/jet-story",
+        "description": "Open retro platform game project."
+      },
+      {
+        "name": "JSettlers",
+        "url": "https://github.com/jsettlers/Islanders",
+        "description": "Open-source Settlers-style board game implementation."
+      },
+      {
+        "name": "JSkat",
+        "url": "https://github.com/grundid/jskat",
+        "description": "Open-source Skat card game."
+      },
+      {
+        "name": "JSoko",
+        "url": "https://github.com/heiner7/JSoko",
+        "description": "Sokoban implementation and solver."
+      },
+      {
+        "name": "Jump 'n Bump",
+        "url": "https://github.com/ajs/jumpnbump",
+        "description": "Classic multiplayer platform game."
+      },
+      {
+        "name": "KaM Remake",
+        "url": "https://github.com/Kromster80/kam_remake",
+        "description": "Open-source remake of Knights and Merchants."
+      },
+      {
+        "name": "KeeperRL",
+        "url": "https://github.com/miki151/keeperrl",
+        "description": "Roguelike dungeon-builder inspired by Dwarf Fortress."
+      },
+      {
+        "name": "Kernel Panic",
+        "url": "https://github.com/ZeroK-RTS/Kernel-Panic",
+        "description": "Fast-paced abstract RTS total conversion for the Spring engine."
+      },
+      {
+        "name": "Legend of Elya",
+        "url": "https://github.com/Scottcjn/legend-of-elya-n64",
+        "description": "Zelda-style dungeon crawler for Nintendo 64 with a tiny neural-network NPC system running live inference on original hardware."
+      },
+      {
+        "name": "Liblast",
+        "url": "https://codeberg.org/liblast/liblast",
+        "description": "Libre multiplayer FPS built with Godot 4."
+      },
+      {
+        "name": "Lichess",
+        "url": "https://github.com/lichess-org/lila",
+        "description": "Full open-source online chess platform."
+      },
+      {
+        "name": "Luanti",
+        "url": "https://github.com/luanti-org/luanti",
+        "description": "Open voxel game platform formerly known as Minetest."
+      },
+      {
+        "name": "Manic Digger",
+        "url": "https://github.com/manicdigger/manicdigger",
+        "description": "Multiplayer block-building voxel game."
+      },
+      {
+        "name": "MegaGlest",
+        "url": "https://github.com/megaglest/megaglest-source",
+        "description": "Cross-platform 3D real-time strategy game."
+      },
+      {
+        "name": "MegaMek",
+        "url": "https://github.com/MegaMek/megamek",
+        "description": "Networked implementation of the BattleTech tabletop game."
+      },
+      {
+        "name": "MekHQ",
+        "url": "https://github.com/MegaMek/mekhq",
+        "description": "Campaign management companion for MegaMek."
+      },
+      {
+        "name": "Meridian 59",
+        "url": "https://github.com/Meridian59/Meridian59",
+        "description": "Community-developed open-source MMORPG."
+      },
+      {
+        "name": "Micropolis",
+        "url": "https://github.com/SimHacker/micropolis",
+        "description": "Open-source city-building game based on the original SimCity codebase."
+      },
+      {
+        "name": "Mindustry",
+        "url": "https://github.com/Anuken/Mindustry",
+        "description": "Sandbox factory-building and tower-defense game."
+      },
+      {
+        "name": "MineClone2",
+        "url": "https://git.minetest.land/MineClone2/MineClone2",
+        "description": "Minecraft-inspired voxel game for Luanti."
+      },
+      {
+        "name": "Minilens",
+        "url": "https://github.com/KOBUGE-Games/minilens",
+        "description": "Puzzle-platformer starring a cleaning robot."
+      },
+      {
+        "name": "Monster RPG 2",
+        "url": "https://github.com/Nooskewl/monster-rpg-2",
+        "description": "Turn-based J-RPG with an original setting."
+      },
+      {
+        "name": "Naev",
+        "url": "https://github.com/naev/naev",
+        "description": "2D space exploration and combat RPG."
+      },
+      {
+        "name": "NetHack",
+        "url": "https://github.com/NetHack/NetHack",
+        "description": "Long-running dungeon exploration roguelike."
+      },
+      {
+        "name": "Neverball",
+        "url": "https://github.com/Neverball/neverball",
+        "description": "3D puzzle/arcade game focused on rolling a ball."
+      },
+      {
+        "name": "Nodulus",
+        "url": "https://github.com/Hyperparticle/nodulus",
+        "description": "Mathematical puzzle game built around rotating cube-and-rod structures."
+      },
+      {
+        "name": "Nudoku",
+        "url": "https://github.com/jubalh/nudoku",
+        "description": "Terminal-based Sudoku game."
+      },
+      {
+        "name": "Open General",
+        "url": "https://github.com/owain94/OpenGeneral",
+        "description": "Open-source strategy engine inspired by Panzer General-style gameplay."
+      },
+      {
+        "name": "Open-KO",
+        "url": "https://github.com/Temuking/OpenKO",
+        "description": "Knight Online reimplementation project."
+      },
+      {
+        "name": "OpenArena",
+        "url": "https://github.com/OpenArena/engine",
+        "description": "Free/open-source arena FPS based on idTech3 technology."
+      },
+      {
+        "name": "OpenBOR",
+        "url": "https://github.com/DCurrent/openbor",
+        "description": "Open beat-'em-up game engine and content ecosystem."
+      },
+      {
+        "name": "OpenBound",
+        "url": "https://github.com/OpenBound/OpenBound",
+        "description": "Open-source artillery game implementation."
+      },
+      {
+        "name": "OpenBVE",
+        "url": "https://github.com/leezer3/OpenBVE",
+        "description": "Open-source train simulator."
+      },
+      {
+        "name": "OpenBW",
+        "url": "https://github.com/bwapi/bwapi",
+        "description": "Community tooling around StarCraft compatibility and bot development."
+      },
+      {
+        "name": "OpenCiv1",
+        "url": "https://github.com/akbarnes/open-civ",
+        "description": "Civilization-style strategy implementation."
+      },
+      {
+        "name": "OpenClonk",
+        "url": "https://github.com/openclonk/openclonk",
+        "description": "2D multiplayer sandbox game with construction and exploration."
+      },
+      {
+        "name": "OpenDUNE",
+        "url": "https://github.com/OpenDUNE/OpenDUNE",
+        "description": "Dune II engine recreation."
+      },
+      {
+        "name": "OpenDungeons",
+        "url": "https://github.com/OpenDungeons/OpenDungeons",
+        "description": "Dungeon-management strategy game inspired by Dungeon Keeper."
+      },
+      {
+        "name": "OpenE2140",
+        "url": "https://github.com/OpenE2140/OpenE2140",
+        "description": "OpenRA-based Earth 2140 reimplementation."
+      },
+      {
+        "name": "OpenFrontIO",
+        "url": "https://github.com/openfrontio/OpenFrontIO",
+        "description": "Browser-based online real-time strategy project."
+      },
+      {
+        "name": "OpenHV",
+        "url": "https://github.com/OpenHV/OpenHV",
+        "description": "Open-source pixel-art science-fiction RTS built with OpenRA technology."
+      },
+      {
+        "name": "OpenKeeper",
+        "url": "https://github.com/tonihele/OpenKeeper",
+        "description": "Dungeon Keeper engine recreation."
+      },
+      {
+        "name": "OpenKrush",
+        "url": "https://github.com/OpenKrush/OpenKrush",
+        "description": "OpenRA-based reimplementation of KKnD and KKnD2."
+      },
+      {
+        "name": "OpenLieroX",
+        "url": "https://github.com/allegator/olx",
+        "description": "Real-time 2D artillery/action game inspired by Liero."
+      },
+      {
+        "name": "OpenNefia",
+        "url": "https://github.com/Elin-Modding/OpenNefia",
+        "description": "Moddable open-source engine/reimplementation inspired by Elona."
+      },
+      {
+        "name": "OpenNox",
+        "url": "https://github.com/noxworld-dev/opennox",
+        "description": "Nox engine recreation and modernization."
+      },
+      {
+        "name": "OpenOMF",
+        "url": "https://github.com/omf2097/openomf",
+        "description": "One Must Fall 2097 engine recreation."
+      },
+      {
+        "name": "OpenPanzer",
+        "url": "https://github.com/OpenPanzer/openpanzer",
+        "description": "Browser-based Panzer General-style strategy game."
+      },
+      {
+        "name": "OpenSA",
+        "url": "https://github.com/OpenRA-Mods/OpenSA",
+        "description": "OpenRA-based Swarm Assault reimplementation."
+      },
+      {
+        "name": "OpenSolomonsKey",
+        "url": "https://github.com/minirop/OpenSolomonsKey",
+        "description": "Solomon's Key-inspired open game."
+      },
+      {
+        "name": "OpenSpades",
+        "url": "https://github.com/yvt/openspades",
+        "description": "Open-source Ace of Spades-compatible client."
+      },
+      {
+        "name": "OpenSupaplex",
+        "url": "https://github.com/sergey-koumirov/opensupaplex",
+        "description": "Open-source Supaplex implementation."
+      },
+      {
+        "name": "OpenTriad",
+        "url": "https://github.com/TripleTriad/triad",
+        "description": "Final Fantasy-style Triple Triad implementation."
+      },
+      {
+        "name": "OpenTyrian",
+        "url": "https://github.com/opentyrian/opentyrian",
+        "description": "Open-source port of the classic Tyrian shoot-'em-up."
+      },
+      {
+        "name": "OpenWebSoccer",
+        "url": "https://github.com/ndee/websoccer",
+        "description": "Browser-based football management game."
+      },
+      {
+        "name": "OPMon",
+        "url": "https://github.com/OpMonTeam/OpMon",
+        "description": "Open-source monster-collecting RPG project."
+      },
+      {
+        "name": "osu!",
+        "url": "https://github.com/ppy/osu",
+        "description": "Open-source rhythm game with a large community ecosystem."
+      },
+      {
+        "name": "Pax Britannica",
+        "url": "https://github.com/krisives/pax-britannica",
+        "description": "Minimalist underwater one-button RTS."
+      },
+      {
+        "name": "Performous",
+        "url": "https://github.com/performous/performous",
+        "description": "Open-source rhythm and singing game."
+      },
+      {
+        "name": "Pikifen",
+        "url": "https://github.com/Espyo/Pikifen",
+        "description": "Open-source Pikmin-inspired engine/game project."
+      },
+      {
+        "name": "Pingus",
+        "url": "https://github.com/Pingus/pingus",
+        "description": "Lemmings-inspired puzzle/strategy game."
+      },
+      {
+        "name": "Pioneer",
+        "url": "https://github.com/pioneerspacesim/pioneer",
+        "description": "Space adventure and trading simulation."
+      },
+      {
+        "name": "Pioneers",
+        "url": "https://github.com/fd0/pioneers",
+        "description": "Open-source Settlers-style board game."
+      },
+      {
+        "name": "PipeWalker",
+        "url": "https://github.com/atsepkov/pipewalker",
+        "description": "Pipe-connection puzzle game."
+      },
+      {
+        "name": "Pixel Dungeon",
+        "url": "https://github.com/watabou/pixel-dungeon",
+        "description": "Classic open-source Android roguelike."
+      },
+      {
+        "name": "Pixel Wheels",
+        "url": "https://github.com/agateau/pixelwheels",
+        "description": "Open-source top-down arcade racing game."
+      },
+      {
+        "name": "PokerTH",
+        "url": "https://github.com/pokerth/pokerth",
+        "description": "Texas Hold'em game with online multiplayer and bots."
+      },
+      {
+        "name": "Polly-B-Gone",
+        "url": "https://github.com/aeonsoft/Polly-B-Gone",
+        "description": "Physics-based platform game about a wheeled robot."
+      },
+      {
+        "name": "Pooltool",
+        "url": "https://github.com/ekiefl/pooltool",
+        "description": "Billiards simulation and physics project."
+      },
+      {
+        "name": "Race into Space",
+        "url": "https://github.com/raceintospace/raceintospace",
+        "description": "Turn-based space race strategy game originally by Interplay, open-sourced and community maintained."
+      },
+      {
+        "name": "Red Eclipse",
+        "url": "https://github.com/redeclipse/base",
+        "description": "Fast arena shooter based on Cube technology."
+      },
+      {
+        "name": "Reia",
+        "url": "https://github.com/Quaint-Studios/Reia",
+        "description": "Action-adventure MMO RPG focused on story, combat, and open-world sandbox adventure, built with Godot, Rust, and Zig."
+      },
+      {
+        "name": "ReTux",
+        "url": "https://github.com/Retux/Retux",
+        "description": "Open-source platformer inspired by SuperTux."
+      },
+      {
+        "name": "Rigs of Rods",
+        "url": "https://github.com/RigsOfRods/rigs-of-rods",
+        "description": "Vehicle physics and simulation sandbox."
+      },
+      {
+        "name": "Robocode",
+        "url": "https://github.com/robo-code/robocode",
+        "description": "Programming game centered on robot battles."
+      },
+      {
+        "name": "Sandboxels",
+        "url": "https://github.com/ProllM/Sandboxels",
+        "description": "Browser-based falling-sand simulation."
+      },
+      {
+        "name": "Screeps",
+        "url": "https://github.com/screeps/screeps",
+        "description": "MMO programming game where JavaScript controls persistent colonies."
+      },
+      {
+        "name": "Secret Maryo Chronicles",
+        "url": "https://github.com/Secretchronicles/SMC",
+        "description": "Open-source 2D platformer."
+      },
+      {
+        "name": "Seven Kingdoms: Ancient Adversaries",
+        "url": "https://github.com/kallisti5/7kaa",
+        "description": "Classic RTS released under an open-source license."
+      },
+      {
+        "name": "Shattered Paradise",
+        "url": "https://github.com/OpenRA/ra2",
+        "description": "OpenRA-based Tiberian Sun-inspired community project."
+      },
+      {
+        "name": "Shattered Pixel Dungeon",
+        "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
+        "description": "Open-source traditional roguelike for desktop and mobile."
+      },
+      {
+        "name": "Sil",
+        "url": "https://github.com/sil-quirk/sil",
+        "description": "Silmarillion-inspired roguelike."
+      },
+      {
+        "name": "Sil-Q",
+        "url": "https://github.com/sil-quirk/sil-q",
+        "description": "Tolkien-inspired tactical roguelike derived from Angband."
+      },
+      {
+        "name": "Smokin' Guns",
+        "url": "https://github.com/smokinguns/smokinguns",
+        "description": "Western-themed FPS built on idTech technology."
+      },
+      {
+        "name": "Solarus",
+        "url": "https://github.com/solarus-games/solarus",
+        "description": "Open-source action-RPG engine designed for Zelda-like games."
+      },
+      {
+        "name": "Sonic Robo Blast 2",
+        "url": "https://git.do.srb2.org/STJr/SRB2",
+        "description": "Open-source 3D Sonic fangame built on Doom technology."
+      },
+      {
+        "name": "Space Station 14",
+        "url": "https://github.com/space-wizards/space-station-14",
+        "description": "Open-source multiplayer role-playing/simulation game inspired by Space Station 13."
+      },
+      {
+        "name": "Speed Dreams",
+        "url": "https://forge.a-lec.org/xavi/speed-dreams-code",
+        "description": "Open-source motorsport simulator."
+      },
+      {
+        "name": "Spring: 1944",
+        "url": "https://github.com/rennex/spring1944",
+        "description": "World War II RTS built for the Spring ecosystem."
+      },
+      {
+        "name": "Stendhal",
+        "url": "https://github.com/arianne/stendhal",
+        "description": "Free 2D multiplayer online RPG."
+      },
+      {
+        "name": "StepMania",
+        "url": "https://github.com/stepmania/stepmania",
+        "description": "Cross-platform rhythm and dance game engine."
+      },
+      {
+        "name": "Stone Kingdoms",
+        "url": "https://gitlab.com/stone-kingdoms/stone-kingdoms",
+        "description": "Real-time strategy game inspired by classic Stronghold-style design."
+      },
+      {
+        "name": "Stunt Rally",
+        "url": "https://github.com/stuntrally/stuntrally3",
+        "description": "3D rally racing game with track editor."
+      },
+      {
+        "name": "Super Bombinhas",
+        "url": "https://github.com/victords/super-bombinhas",
+        "description": "Retro platformer with hand-crafted pixel art levels."
+      },
+      {
+        "name": "SuperTux",
+        "url": "https://github.com/SuperTux/supertux",
+        "description": "Classic open-source platformer."
+      },
+      {
+        "name": "SuperTuxKart",
+        "url": "https://github.com/supertuxkart/stk-code",
+        "description": "Full-featured open-source kart racing game."
+      },
+      {
+        "name": "Taisei Project",
+        "url": "https://github.com/taisei-project/taisei",
+        "description": "Open-source bullet-hell shoot-'em-up inspired by Touhou."
+      },
+      {
+        "name": "Tanks of Freedom",
+        "url": "https://github.com/w84death/Tanks-of-Freedom",
+        "description": "Isometric turn-based strategy game."
+      },
+      {
+        "name": "Teeworlds",
+        "url": "https://github.com/teeworlds/teeworlds",
+        "description": "Online multiplayer 2D shooter/platform game."
+      },
+      {
+        "name": "Terasology",
+        "url": "https://github.com/MovingBlocks/Terasology",
+        "description": "Extensible voxel game platform with RPG/sandbox possibilities."
+      },
+      {
+        "name": "The Battle for Wesnoth",
+        "url": "https://github.com/wesnoth/wesnoth",
+        "description": "Turn-based fantasy strategy game with campaigns and multiplayer."
+      },
+      {
+        "name": "The Butterfly Effect",
+        "url": "https://github.com/tbeffect/tbeffect",
+        "description": "Physics puzzle game."
+      },
+      {
+        "name": "The Castles of Dr. Creep",
+        "url": "https://github.com/raz0red/DrCreep",
+        "description": "Open-source classic puzzle platform game."
+      },
+      {
+        "name": "The Dark Mod",
+        "url": "https://github.com/darkmod/thedarkmod",
+        "description": "Open-source stealth FPS with a large mission ecosystem."
+      },
+      {
+        "name": "The Legend of Edgar",
+        "url": "https://github.com/stransky/edgar",
+        "description": "2D action-platformer with exploration and combat."
+      },
+      {
+        "name": "The Mana World",
+        "url": "https://github.com/themanaworld/tmwa",
+        "description": "Open-source MMORPG project."
+      },
+      {
+        "name": "The Powder Toy",
+        "url": "https://github.com/The-Powder-Toy/The-Powder-Toy",
+        "description": "Falling-sand physics sandbox."
+      },
+      {
+        "name": "Thrive",
+        "url": "https://github.com/Revolutionary-Games/Thrive",
+        "description": "Open-source evolution and life simulation game."
+      },
+      {
+        "name": "TIS-100",
+        "url": "https://github.com/ian-albert/tis-100",
+        "description": "Community implementations inspired by assembly-programming puzzle games."
+      },
+      {
+        "name": "TORCS",
+        "url": "https://sourceforge.net/projects/torcs/",
+        "description": "Open-source racing simulator."
+      },
+      {
+        "name": "Tremulous",
+        "url": "https://github.com/darklegion/tremulous",
+        "description": "Asymmetric alien-versus-human FPS/RTS game."
+      },
+      {
+        "name": "Trigger Rally",
+        "url": "https://github.com/CodeArtemis/TriggerRally",
+        "description": "Browser-based arcade rally game."
+      },
+      {
+        "name": "TripleA",
+        "url": "https://github.com/triplea-game/triplea",
+        "description": "Grand-strategy and board-game engine inspired by Axis & Allies."
+      },
+      {
+        "name": "Turtle Arena",
+        "url": "https://github.com/tycho/turtle-arena",
+        "description": "Open-source third-person action game using Spearmint technology."
+      },
+      {
+        "name": "Tux Rider",
+        "url": "https://github.com/tuxrider/tuxrider",
+        "description": "Open-source downhill snowboarding/racing game."
+      },
+      {
+        "name": "Tuxemon",
+        "url": "https://github.com/Tuxemon/Tuxemon",
+        "description": "Open monster-collecting RPG."
+      },
+      {
+        "name": "Unciv",
+        "url": "https://github.com/yairm210/Unciv",
+        "description": "Open-source 4X strategy game inspired by Civilization V."
+      },
+      {
+        "name": "Unknown Horizons",
+        "url": "https://github.com/unknown-horizons/unknown-horizons",
+        "description": "2D economic RTS focused on settlement and city building."
+      },
+      {
+        "name": "Untrusted",
+        "url": "https://github.com/AlexNisnevich/untrusted",
+        "description": "Meta-JavaScript adventure/puzzle game."
+      },
+      {
+        "name": "Unvanquished",
+        "url": "https://github.com/Unvanquished/Unvanquished",
+        "description": "Open-source FPS/RTS hybrid powered by the Daemon engine."
+      },
+      {
+        "name": "Valyria Tear",
+        "url": "https://github.com/Bertram25/ValyriaTear",
+        "description": "Open-source 2D J-RPG."
+      },
+      {
+        "name": "VDrift",
+        "url": "https://github.com/VDrift/vdrift",
+        "description": "Open-source driving simulation."
+      },
+      {
+        "name": "Vega Strike",
+        "url": "https://github.com/vegastrike/Vega-Strike-Engine-Source",
+        "description": "Open space-combat and trading game."
+      },
+      {
+        "name": "Veloren",
+        "url": "https://gitlab.com/veloren/veloren",
+        "description": "Multiplayer voxel action-RPG written in Rust."
+      },
+      {
+        "name": "VGA Golf",
+        "url": "https://github.com/DraknekGames/VGAGolf",
+        "description": "Retro-style golf project."
+      },
+      {
+        "name": "Violetland",
+        "url": "https://github.com/ooxi/violetland",
+        "description": "Open top-down action game."
+      },
+      {
+        "name": "vitetris",
+        "url": "https://github.com/vicgeralds/vitetris",
+        "description": "Terminal Tetris implementation."
+      },
+      {
+        "name": "Voxeland",
+        "url": "https://github.com/Voxelands/Voxelands",
+        "description": "Voxel sandbox game."
+      },
+      {
+        "name": "VoxeLibre",
+        "url": "https://github.com/VoxeLibre/VoxeLibre",
+        "description": "Minecraft-like voxel game for Luanti."
+      },
+      {
+        "name": "Vulture's Eye",
+        "url": "https://github.com/mcneight/vultures-eye",
+        "description": "Graphical roguelike client/game project."
+      },
+      {
+        "name": "VVVVVV",
+        "url": "https://github.com/TerryCavanagh/VVVVVV",
+        "description": "Open-source release of the platform game VVVVVV."
+      },
+      {
+        "name": "Wagic",
+        "url": "https://github.com/WagicProject/wagic",
+        "description": "Open homebrew trading-card game project."
+      },
+      {
+        "name": "WallBall",
+        "url": "https://github.com/WallBall/WallBall",
+        "description": "Open-source arcade game."
+      },
+      {
+        "name": "War1",
+        "url": "https://github.com/war1/war1",
+        "description": "Open Warcraft-style strategy project."
+      },
+      {
+        "name": "War1gus",
+        "url": "https://github.com/war1gus/war1gus",
+        "description": "Warcraft: Orcs & Humans implementation built on Stratagus."
+      },
+      {
+        "name": "Warcraft Remake",
+        "url": "https://github.com/warcraft-remake/warcraft-remake",
+        "description": "Open Warcraft-inspired remake project."
+      },
+      {
+        "name": "Warfork",
+        "url": "https://github.com/TeamForbidden/Warfork",
+        "description": "Fast arena FPS descended from the Warsow ecosystem."
+      },
+      {
+        "name": "WarMUX",
+        "url": "https://github.com/warmux/warmux",
+        "description": "Turn-based artillery game with network multiplayer."
+      },
+      {
+        "name": "WarriorJS",
+        "url": "https://github.com/olistic/warriorjs",
+        "description": "Programming game where code controls a warrior."
+      },
+      {
+        "name": "Warsow",
+        "url": "https://github.com/Warsow/qfusion",
+        "description": "Fast-paced FPS set in a futuristic cartoonish world."
+      },
+      {
+        "name": "Warzone 2100",
+        "url": "https://github.com/Warzone2100/warzone2100",
+        "description": "3D real-time strategy with campaign, skirmish and multiplayer."
+      },
+      {
+        "name": "Waste's Edge",
+        "url": "https://github.com/rioki/wastesedge",
+        "description": "Open-source tactical/strategy game."
+      },
+      {
+        "name": "Waterkube",
+        "url": "https://github.com/Waterkube/Waterkube",
+        "description": "Open voxel/game experiment."
+      },
+      {
+        "name": "WAtomic",
+        "url": "https://github.com/sergejsha/WAtomic",
+        "description": "Atomic puzzle game."
+      },
+      {
+        "name": "WebChess",
+        "url": "https://github.com/ihsanullah/WebChess",
+        "description": "Open-source browser chess."
+      },
+      {
+        "name": "WebFun",
+        "url": "https://github.com/webfun-game/webfun",
+        "description": "Browser game project."
+      },
+      {
+        "name": "Whatajong",
+        "url": "https://github.com/masylum/whatajong",
+        "description": "Mahjong game."
+      },
+      {
+        "name": "Which Way Is Up?",
+        "url": "https://github.com/which-way-is-up/which-way-is-up",
+        "description": "Open-source platformer."
+      },
+      {
+        "name": "Widelands",
+        "url": "https://github.com/widelands/widelands",
+        "description": "Open-source real-time strategy and settlement-building game."
+      },
+      {
+        "name": "Windstille",
+        "url": "https://github.com/andreas-volz/windstille",
+        "description": "Open-source game project."
+      },
+      {
+        "name": "Witch Blast",
+        "url": "https://github.com/witchblast/witchblast",
+        "description": "Open-source roguelite dungeon shooter."
+      },
+      {
+        "name": "Wizznic",
+        "url": "https://github.com/DusteDdk/Wizznic",
+        "description": "Open-source tile/puzzle game."
+      },
+      {
+        "name": "Wolf4SDL",
+        "url": "https://github.com/neuromancer/wolf4sdl",
+        "description": "Wolfenstein 3D source port."
+      },
+      {
+        "name": "Wolfcha",
+        "url": "https://github.com/oil-oil/wolfcha",
+        "description": "Werewolf (Mafia) social deduction game where every player is controlled by a chatbot opponent, built with Next.js and TypeScript."
+      },
+      {
+        "name": "Wolfpack Empire",
+        "url": "https://github.com/wolfpackempire/wolfpack",
+        "description": "Multiplayer text-based strategy game."
+      },
+      {
+        "name": "Wyrmsun",
+        "url": "https://github.com/Andrettin/Wyrmsun",
+        "description": "Strategy game combining history, mythology and fantasy."
+      },
+      {
+        "name": "X-Moto",
+        "url": "https://github.com/xmoto/xmoto",
+        "description": "Physics-based motocross platform/racing game."
+      },
+      {
+        "name": "Xargon",
+        "url": "https://github.com/jeff-1amstudios/xargon",
+        "description": "Open-source classic platform game project."
+      },
+      {
+        "name": "XEvil",
+        "url": "https://github.com/Xevil/Xevil",
+        "description": "Open-source arcade game."
+      },
+      {
+        "name": "Xonotic",
+        "url": "https://gitlab.com/xonotic/xonotic",
+        "description": "Fast-paced open-source arena FPS."
+      },
+      {
+        "name": "Yet Another Pixel Dungeon",
+        "url": "https://github.com/OnlyLeigh/YetAnotherPixelDungeon",
+        "description": "Community Pixel Dungeon variant."
+      },
+      {
+        "name": "YSFlight Community Edition",
+        "url": "https://github.com/YSFlight/YSFlightCommunityEdition",
+        "description": "Community-developed flight simulator branch."
+      },
+      {
+        "name": "Zero-K",
+        "url": "https://github.com/ZeroK-RTS/Zero-K",
+        "description": "Open-source RTS with physics-based projectiles and deep automation."
+      }
+    ],
+    "reimplementations": [
+      {
+        "name": "Akhenaten",
+        "url": "https://github.com/dalerank/Akhenaten",
+        "description": "Pharaoh/Cleopatra-inspired open engine/game project."
+      },
+      {
+        "name": "BuildGDX",
+        "url": "https://github.com/vogonsorg/BuildGDX",
+        "description": "Java Build-engine port framework."
+      },
+      {
+        "name": "CatacombGL",
+        "url": "https://github.com/ArnoAnsems/CatacombGL",
+        "description": "Catacomb 3-D engine/source port."
+      },
+      {
+        "name": "Chocolate Doom",
+        "url": "https://github.com/chocolate-doom/chocolate-doom",
+        "description": "Conservative Doom source port."
+      },
+      {
+        "name": "Chocolate Quake",
+        "url": "https://github.com/Henrique194/chocolate-quake",
+        "description": "Purist Quake source port."
+      },
+      {
+        "name": "Commander Genius",
+        "url": "https://github.com/gerstrong/Commander-Genius",
+        "description": "Commander Keen compatible engine."
+      },
+      {
+        "name": "CorsixTH",
+        "url": "https://github.com/CorsixTH/CorsixTH",
+        "description": "Theme Hospital reimplementation."
+      },
+      {
+        "name": "Descent 3",
+        "url": "https://github.com/DescentDevelopers/Descent3",
+        "description": "Classic six-degree-of-freedom shooter released open-source by original developers."
+      },
+      {
+        "name": "DevilutionX",
+        "url": "https://github.com/diasurgical/devilutionX",
+        "description": "Diablo/Hellfire engine port with enhancements."
+      },
+      {
+        "name": "Doom 64 EX",
+        "url": "https://github.com/etranger-dev/Doom64EX",
+        "description": "Doom 64 reverse-engineering/source recreation project."
+      },
+      {
+        "name": "DSDA-Doom",
+        "url": "https://github.com/kraflab/dsda-doom",
+        "description": "Doom source port focused on compatibility and demos."
+      },
+      {
+        "name": "EDuke32",
+        "url": "https://voidpoint.io/terminx/eduke32",
+        "description": "Build-engine source port ecosystem."
+      },
+      {
+        "name": "fheroes2",
+        "url": "https://github.com/ihhub/fheroes2",
+        "description": "Heroes of Might and Magic II engine recreation."
+      },
+      {
+        "name": "Freeablo",
+        "url": "https://github.com/wheybags/freeablo",
+        "description": "Diablo I engine replacement project."
+      },
+      {
+        "name": "FTEQW",
+        "url": "https://github.com/fte-team/fteqw",
+        "description": "Quake/idTech engine and modding platform."
+      },
+      {
+        "name": "GemRB",
+        "url": "https://github.com/gemrb/gemrb",
+        "description": "Infinity Engine reimplementation."
+      },
+      {
+        "name": "GZDoom",
+        "url": "https://github.com/ZDoom/gzdoom",
+        "description": "Feature-rich Doom-family source port."
+      },
+      {
+        "name": "ioquake3",
+        "url": "https://github.com/ioquake/ioq3",
+        "description": "Quake III Arena source port."
+      },
+      {
+        "name": "Julius",
+        "url": "https://github.com/bvschaik/julius",
+        "description": "Caesar III reimplementation."
+      },
+      {
+        "name": "NBlood",
+        "url": "https://github.com/NBlood/NBlood",
+        "description": "Blood source port built on EDuke32 technology."
+      },
+      {
+        "name": "Omnispeak",
+        "url": "https://github.com/sulix/omnispeak",
+        "description": "Commander Keen reimplementation."
+      },
+      {
+        "name": "Openage",
+        "url": "https://github.com/SFTtech/openage",
+        "description": "Free, open-source clone of the Age of Empires II engine."
+      },
+      {
+        "name": "OpenDiablo2",
+        "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+        "description": "Diablo II engine reimplementation."
+      },
+      {
+        "name": "OpenFodder",
+        "url": "https://github.com/OpenFodder/openfodder",
+        "description": "Open-source port of Cannon Fodder; original game data remains separately licensed."
+      },
+      {
+        "name": "OpenGOAL",
+        "url": "https://github.com/open-goal/jak-project",
+        "description": "Jak and Daxter reverse-engineering and PC-port project."
+      },
+      {
+        "name": "OpenLara",
+        "url": "https://github.com/XProger/OpenLara",
+        "description": "Tomb Raider engine recreation."
+      },
+      {
+        "name": "OpenLiberty",
+        "url": "https://github.com/FOSS-Supremacy/OpenLiberty",
+        "description": "Open-source reimplementation of Grand Theft Auto III on the Godot Engine."
+      },
+      {
+        "name": "OpenLoco",
+        "url": "https://github.com/OpenLoco/OpenLoco",
+        "description": "Locomotion reimplementation."
+      },
+      {
+        "name": "OpenMW",
+        "url": "https://github.com/OpenMW/openmw",
+        "description": "Morrowind engine reimplementation."
+      },
+      {
+        "name": "OpenRA",
+        "url": "https://github.com/OpenRA/OpenRA",
+        "description": "Reimplementation/modding platform for classic Westwood RTS games."
+      },
+      {
+        "name": "OpenRCT2",
+        "url": "https://github.com/OpenRCT2/OpenRCT2",
+        "description": "RollerCoaster Tycoon 2 reimplementation."
+      },
+      {
+        "name": "OpenRW",
+        "url": "https://github.com/rwengine/openrw",
+        "description": "Grand Theft Auto III engine reimplementation."
+      },
+      {
+        "name": "OpenTomb",
+        "url": "https://github.com/opentomb/OpenTomb",
+        "description": "Open-source Tomb Raider 1-5 engine remake."
+      },
+      {
+        "name": "OpenTTD",
+        "url": "https://github.com/OpenTTD/OpenTTD",
+        "description": "Transport Tycoon Deluxe reimplementation."
+      },
+      {
+        "name": "OpenXcom",
+        "url": "https://github.com/OpenXcom/OpenXcom",
+        "description": "X-COM engine recreation."
+      },
+      {
+        "name": "Raze",
+        "url": "https://github.com/ZDoom/Raze",
+        "description": "Modern Build-engine port."
+      },
+      {
+        "name": "Rednukem",
+        "url": "https://github.com/NBlood/Rednukem",
+        "description": "Redneck Rampage source port."
+      },
+      {
+        "name": "reone",
+        "url": "https://github.com/th3w1zard1/reone",
+        "description": "Open-source engine capable of running Knights of the Old Republic games."
+      },
+      {
+        "name": "RigelEngine",
+        "url": "https://github.com/lethal-guitar/RigelEngine",
+        "description": "Duke Nukem II reimplementation."
+      },
+      {
+        "name": "Romanov's Vengeance",
+        "url": "https://github.com/MustaphaTR/Romanovs-Vengeance",
+        "description": "Remake of Command & Conquer: Red Alert 2 built on the OpenRA engine."
+      },
+      {
+        "name": "RVGL",
+        "url": "https://gitlab.com/re-volt/rvgl",
+        "description": "Re-Volt source port/rewrite."
+      },
+      {
+        "name": "ScummVM",
+        "url": "https://github.com/scummvm/scummvm",
+        "description": "Portable runtime for many classic adventure games."
+      },
+      {
+        "name": "Super Mario 64 decompilation",
+        "url": "https://github.com/n64decomp/sm64",
+        "description": "Complete decompilation/reconstruction project."
+      },
+      {
+        "name": "UZDoom",
+        "url": "https://github.com/UZDoom/UZDoom",
+        "description": "Modern Doom source-port ecosystem."
+      },
+      {
+        "name": "VCMI",
+        "url": "https://github.com/vcmi/vcmi",
+        "description": "Heroes of Might and Magic III engine reimplementation."
+      },
+      {
+        "name": "Wargus",
+        "url": "https://github.com/Wargus/wargus",
+        "description": "Warcraft II mod built on Stratagus."
+      },
+      {
+        "name": "Yamagi Quake II",
+        "url": "https://github.com/yquake2/yquake2",
+        "description": "Modern Quake II source port."
+      },
+      {
+        "name": "Zelda3",
+        "url": "https://github.com/snesrev/zelda3",
+        "description": "Reverse-engineered Zelda: A Link to the Past codebase."
+      },
+      {
+        "name": "Zelda: Twilight Princess decompilation",
+        "url": "https://github.com/zeldaret/tp",
+        "description": "Human-readable decompilation project."
+      }
+    ],
+    "engines": [
+      {
+        "name": "Bevy",
+        "url": "https://github.com/bevyengine/bevy",
+        "description": "Data-driven Rust game engine."
+      },
+      {
+        "name": "Castle Game Engine",
+        "url": "https://github.com/castle-engine/castle-engine",
+        "description": "Cross-platform 2D/3D engine."
+      },
+      {
+        "name": "Comfy",
+        "url": "https://github.com/darthdeus/comfy",
+        "description": "Lightweight Rust 2D game engine."
+      },
+      {
+        "name": "Defold",
+        "url": "https://github.com/defold/defold",
+        "description": "Cross-platform engine focused on efficient game workflows."
+      },
+      {
+        "name": "Fyrox",
+        "url": "https://github.com/FyroxEngine/Fyrox",
+        "description": "Rust 2D/3D game engine."
+      },
+      {
+        "name": "GDevelop",
+        "url": "https://github.com/4ian/GDevelop",
+        "description": "Open-source no-code/low-code game engine."
+      },
+      {
+        "name": "Godot",
+        "url": "https://github.com/godotengine/godot",
+        "description": "Full-featured open-source 2D/3D engine."
+      },
+      {
+        "name": "jMonkeyEngine",
+        "url": "https://github.com/jMonkeyEngine/jmonkeyengine",
+        "description": "Java 3D engine."
+      },
+      {
+        "name": "libGDX",
+        "url": "https://github.com/libgdx/libgdx",
+        "description": "Cross-platform Java game framework."
+      },
+      {
+        "name": "LÖVE",
+        "url": "https://github.com/love2d/love",
+        "description": "Lua framework for 2D games."
+      },
+      {
+        "name": "Macroquad",
+        "url": "https://github.com/not-fl3/macroquad",
+        "description": "Cross-platform Rust game library."
+      },
+      {
+        "name": "MonoGame",
+        "url": "https://github.com/MonoGame/MonoGame",
+        "description": "Cross-platform C# framework."
+      },
+      {
+        "name": "Panda3D",
+        "url": "https://github.com/panda3d/panda3d",
+        "description": "C++/Python 3D engine."
+      },
+      {
+        "name": "Phaser",
+        "url": "https://github.com/phaserjs/phaser",
+        "description": "JavaScript/TypeScript HTML5 game framework."
+      },
+      {
+        "name": "Pygame",
+        "url": "https://github.com/pygame/pygame",
+        "description": "Python multimedia/game library."
+      },
+      {
+        "name": "raylib",
+        "url": "https://github.com/raysan5/raylib",
+        "description": "Simple C library for games and graphics."
+      },
+      {
+        "name": "Ren'Py",
+        "url": "https://github.com/renpy/renpy",
+        "description": "Visual-novel engine."
+      },
+      {
+        "name": "SDL",
+        "url": "https://github.com/libsdl-org/SDL",
+        "description": "Cross-platform low-level multimedia library."
+      },
+      {
+        "name": "SFML",
+        "url": "https://github.com/SFML/SFML",
+        "description": "Simple multimedia and game-development library."
+      },
+      {
+        "name": "Solar2D",
+        "url": "https://github.com/coronalabs/corona",
+        "description": "Lua-based 2D game engine."
+      },
+      {
+        "name": "Stride",
+        "url": "https://github.com/stride3d/stride",
+        "description": "C# game engine with modern tooling."
+      },
+      {
+        "name": "Urho3D",
+        "url": "https://github.com/urho3d/Urho3D",
+        "description": "Lightweight C++ 2D/3D engine."
+      }
+    ],
+    "tools": [
+      {
+        "name": "Assimp",
+        "url": "https://github.com/assimp/assimp",
+        "description": "Asset-import library supporting many 3D formats."
+      },
+      {
+        "name": "Blender",
+        "url": "https://github.com/blender/blender",
+        "description": "Open-source 3D creation suite widely used for game assets."
+      },
+      {
+        "name": "Box2D",
+        "url": "https://github.com/erincatto/box2d",
+        "description": "2D physics engine."
+      },
+      {
+        "name": "Bullet",
+        "url": "https://github.com/bulletphysics/bullet3",
+        "description": "3D physics SDK."
+      },
+      {
+        "name": "Chipmunk2D",
+        "url": "https://github.com/slembcke/Chipmunk2D",
+        "description": "2D physics library."
+      },
+      {
+        "name": "Dear ImGui",
+        "url": "https://github.com/ocornut/imgui",
+        "description": "Immediate-mode GUI library."
+      },
+      {
+        "name": "EnTT",
+        "url": "https://github.com/skypjack/entt",
+        "description": "C++ ECS and game-development utilities."
+      },
+      {
+        "name": "Jolt Physics",
+        "url": "https://github.com/jrouwe/JoltPhysics",
+        "description": "C++ multi-core physics engine."
+      },
+      {
+        "name": "LDtk",
+        "url": "https://github.com/deepnight/ldtk",
+        "description": "Modern 2D level editor."
+      },
+      {
+        "name": "MeshLab",
+        "url": "https://github.com/cnr-isti-vclab/meshlab",
+        "description": "3D mesh processing application."
+      },
+      {
+        "name": "miniaudio",
+        "url": "https://github.com/mackron/miniaudio",
+        "description": "Single-file audio playback/capture library."
+      },
+      {
+        "name": "OpenAL Soft",
+        "url": "https://github.com/kcat/openal-soft",
+        "description": "Open-source OpenAL implementation."
+      },
+      {
+        "name": "OpenUPM",
+        "url": "https://github.com/openupm/openupm",
+        "description": "Open Unity package registry tooling."
+      },
+      {
+        "name": "SoLoud",
+        "url": "https://github.com/jarikomppa/soloud",
+        "description": "C/C++ audio engine."
+      },
+      {
+        "name": "Tiled",
+        "url": "https://github.com/mapeditor/tiled",
+        "description": "Flexible 2D level/tile-map editor."
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+max_retries = 3
+retry_wait_time = 2
+exclude = [
+  '^https://img\.shields\.io/',
+  '^https://awesome\.re/',
+]
