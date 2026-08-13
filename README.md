@@ -33,7 +33,7 @@ This repository is an **index, not a mirror**. The projects listed here remain t
 ## 📊 Collection at a glance
 
 | Area | Approx. entries |
-|---|---:|
+| --- | ---: |
 | 🎮 Open-source games | 275 unique |
 | 🕹️ Classic reimplementations / source ports | 49 unique |
 | 🧩 Engines & frameworks | 22 unique |
@@ -596,7 +596,7 @@ The list intentionally combines **curation** with **verification**.
 ### We distinguish these cases
 
 | Label | Meaning |
-|---|---|
+| --- | --- |
 | **Open-source game** | The game's source code is openly licensed and the project is itself a game. |
 | **Reimplementation / source port** | The engine/code is open, but original commercial assets may still be required. |
 | **Engine / framework** | Development technology, not a standalone game. |
