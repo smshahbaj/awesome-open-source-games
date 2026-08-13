@@ -39,7 +39,7 @@ This repository is an **index, not a mirror**. The projects listed here remain t
 | 🧩 Engines & frameworks | 22 unique |
 | 🛠️ Tools & libraries | 15 unique |
 | 📚 Learning resources | 10+ |
-| 🌍 Platforms | Windows · Linux · macOS · Android · Web · BSD · consoles*
+| 🌍 Platforms | Windows · Linux · macOS · Android · Web · BSD · consoles* |
 
 \* Platform availability varies by project. A source repository may be buildable on additional platforms even when official binaries are not provided.
 
@@ -215,7 +215,6 @@ These entries are intended to be playable games or game projects whose source co
 
 ## Simulation & experimental
 
-
 ## Rhythm & music
 
 - **[osu!](https://github.com/ppy/osu)** — Open-source rhythm game with a large community ecosystem.
@@ -339,9 +338,7 @@ Additional verified open-source game projects. Projects that are primarily engin
 
 ### FPS & action
 
-
 ### Sandbox, simulation & vehicles
-
 
 ### Rhythm, board & casual
 
@@ -442,7 +439,6 @@ These entries are included for preservation, study, or historical value. **Inact
 - **[Xargon](https://github.com/jeff-1amstudios/xargon)** — Open-source classic platform game project.
 - **[XEvil](https://github.com/Xevil/Xevil)** — Open-source arcade game.
 
-
 # 🕹️ Classic reimplementations & source ports
 
 These projects are especially useful for studying reverse engineering, compatibility layers, engine architecture and preservation. **A source port/reimplementation does not necessarily mean the original game's assets are open-source.** Check each project's documentation before redistributing data files.
@@ -499,7 +495,6 @@ These projects are especially useful for studying reverse engineering, compatibi
 
 ---
 
-
 # 🧩 Game engines & frameworks
 
 These are **development technologies**, not games. Keeping them separate avoids the common mistake of calling every public game-dev repository an open-source game.
@@ -551,7 +546,7 @@ These are **development technologies**, not games. Keeping them separate avoids 
 
 # 📚 Learning resources
 
-### Learn by reading real game code
+## Learn by reading real game code
 
 - **[Godot Demo Projects](https://github.com/godotengine/godot-demo-projects)** — Small examples for common Godot workflows.
 - **[Bevy Examples](https://github.com/bevyengine/bevy/tree/main/examples)** — Focused examples for Rust/Bevy concepts.
@@ -590,7 +585,7 @@ These are **development technologies**, not games. Keeping them separate avoids 
 
 The list intentionally combines **curation** with **verification**.
 
-### A project should normally have
+## A project should normally have
 
 - A publicly accessible source repository.
 - A license that permits the relevant source-code use, modification and redistribution.
@@ -598,15 +593,15 @@ The list intentionally combines **curation** with **verification**.
 - Enough documentation to understand what the project is.
 - A source URL that can be verified.
 
-### We distinguish these cases
+## We distinguish these cases
 
 | Label | Meaning |
 |---|---|
-| **Open-source game** | The game's source code is openly licensed and the project is itself a game.
-| **Reimplementation / source port** | The engine/code is open, but original commercial assets may still be required.
-| **Engine / framework** | Development technology, not a standalone game.
-| **Tool / library** | Supporting software used to make, debug, render, package or distribute games.
-| **Historical / inactive** | Still useful for preservation or study, even if development has slowed or stopped.
+| **Open-source game** | The game's source code is openly licensed and the project is itself a game. |
+| **Reimplementation / source port** | The engine/code is open, but original commercial assets may still be required. |
+| **Engine / framework** | Development technology, not a standalone game. |
+| **Tool / library** | Supporting software used to make, debug, render, package or distribute games. |
+| **Historical / inactive** | Still useful for preservation or study, even if development has slowed or stopped. |
 
 ### We avoid
 
@@ -641,7 +636,7 @@ Before opening a pull request:
 - [ ] Put engines/tools in the correct section instead of the game catalogue.
 - [ ] If the project is inactive, explain why it is still useful.
 
-### Suggested format
+## Suggested format
 
 ```md
 - **[Project Name](https://example.com/project)** — A short, useful description.
@@ -704,6 +699,6 @@ If you know a project that belongs here, **[contribute it](CONTRIBUTING.md)**.
 
 <div align="center">
 
-**Open source games are not just things to play — they're things to learn from. 🎮**
+<strong>Open source games are not just things to play — they're things to learn from. 🎮</strong>
 
 </div>

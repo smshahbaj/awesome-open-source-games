@@ -13,8 +13,8 @@ jobs:
     name: Markdown lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: DavidAnson/markdownlint-cli2-action@v19
+      - uses: actions/checkout@v6
+      - uses: DavidAnson/markdownlint-cli2-action@v23
         with:
           globs: '**/*.md'
 
@@ -22,7 +22,7 @@ jobs:
     name: Link check
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: lycheeverse/lychee-action@v2
         with:
           args: --verbose --no-progress '**/*.md' '**/*.html'
@@ -32,6 +32,6 @@ jobs:
     name: Catalogue consistency
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Validate catalogue
         run: python3 scripts/validate_catalogue.py
