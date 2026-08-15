@@ -24,7 +24,7 @@
 
 The project deliberately separates **fully open-source games**, **reimplementations/source ports**, and **development engines/tools**. A source repository being public does **not** automatically mean that its assets, data, trademarks, or original commercial game are open source.
 
-> 🎯 **Play it. Read it. Learn from it. Build something better.**
+> 🎯 **Play it! Read it! Learn from it! Build something better!**
 
 This repository is an **index, not a mirror**. The projects listed here remain the property of their respective authors and communities.
 
