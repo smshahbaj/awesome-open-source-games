@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "release_date": "2025-08-13",
   "counts": {
-    "games": 275,
+    "games": 276,
     "reimplementations": 49,
     "engines": 22,
     "tools": 15
@@ -854,6 +854,11 @@
         "name": "osu!",
         "url": "https://github.com/ppy/osu",
         "description": "Open-source rhythm game with a large community ecosystem."
+      },
+      {
+        "name": "Parlour",
+        "url": "https://github.com/braedonsaunders/parlour",
+        "description": "Browser card games (Blitz and Wild) on a deterministic TypeScript engine with P2P friend rooms."
       },
       {
         "name": "Pax Britannica",
