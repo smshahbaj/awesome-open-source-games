@@ -100,6 +100,7 @@ These entries are intended to be playable games or game projects whose source co
 - **[Wyrmsun](https://github.com/Andrettin/Wyrmsun)** — Strategy game combining history, mythology and fantasy.
 - **[Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms)** — Real-time strategy game inspired by classic Stronghold-style design.
 - **[KaM Remake](https://github.com/Kromster80/kam_remake)** — Open-source remake of Knights and Merchants.
+- **[Standard of Iron](https://github.com/djeada/Standard-of-Iron)** — Single-player real-time strategy game set during an alternate Second Punic War, with formation command, direct commander control, and settlement management.
 
 ## City-building & management
 
