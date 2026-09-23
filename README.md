@@ -204,6 +204,7 @@ These entries are intended to be playable games or game projects whose source co
 - **[Wizznic](https://github.com/DusteDdk/Wizznic)** — Open-source tile/puzzle game.
 - **[Nudoku](https://github.com/jubalh/nudoku)** — Terminal-based Sudoku game.
 - **[PokerTH](https://github.com/pokerth/pokerth)** — Texas Hold'em game with online multiplayer and bots.
+- **[Parlour](https://github.com/braedonsaunders/parlour)** — Browser card games (Blitz and Wild) on a deterministic TypeScript engine with P2P friend rooms.
 - **[Whatajong](https://github.com/masylum/whatajong)** — Mahjong game.
 - **[Hnefatafl](https://github.com/dcampbell24/hnefatafl)** — Open-source implementation of the historical board game.
 - **[C4](https://github.com/kenrick95/c4)** — Connect Four with AI in HTML/CSS/JS.
