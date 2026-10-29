@@ -315,6 +315,7 @@ Additional verified open-source game projects. Projects that are primarily engin
 - **[Freeciv-web](https://github.com/freeciv/freeciv-web)** — Browser-based Civilization-style strategy game.
 - **[HexGL](https://github.com/BKcore/HexGL)** — WebGL futuristic racing game.
 - **[Trigger Rally](https://github.com/CodeArtemis/TriggerRally)** — Browser-based arcade rally game.
+- **[Trick or Take](https://github.com/zicojiao/trick-or-take)** — Fast-paced multiplayer Halloween candy heist browser game with real-time Agora RTC voice chat, built with Next.js and Cloudflare Workers.
 
 ### Educational, programming & experimental games
 
