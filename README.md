@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.jpg" alt="Awesome Open Source Games" width="100%">
+<img src="assets/header.svg" alt="Awesome Open Source Games" width="100%">
 
 <br>
 
