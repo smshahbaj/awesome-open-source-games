@@ -4,7 +4,7 @@
   "release_date": "2025-08-13",
   "counts": {
     "games": 276,
-    "reimplementations": 49,
+    "reimplementations": 50,
     "engines": 22,
     "tools": 15
   },
@@ -1441,6 +1441,11 @@
         "name": "Doom 64 EX",
         "url": "https://github.com/atsb/Doom64EX-Classic",
         "description": "Doom 64 reverse-engineering/source recreation project."
+      },
+      {
+        "name": "DRIG",
+        "url": "https://github.com/PipeKnight/drig-race-driver",
+        "description": "Rust and Bevy reimplementation of Race Driver: GRID (2008). Requires the original PC game data."
       },
       {
         "name": "DSDA-Doom",

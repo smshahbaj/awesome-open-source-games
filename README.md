@@ -35,7 +35,7 @@ This repository is an **index, not a mirror**. The projects listed here remain t
 | Area | Approx. entries |
 | --- | ---: |
 | 🎮 Open-source games | 275 unique |
-| 🕹️ Classic reimplementations / source ports | 49 unique |
+| 🕹️ Classic reimplementations / source ports | 50 unique |
 | 🧩 Engines & frameworks | 22 unique |
 | 🛠️ Tools & libraries | 15 unique |
 | 📚 Learning resources | 10+ |
@@ -451,6 +451,7 @@ These projects are especially useful for studying reverse engineering, compatibi
 - **[OpenXcom](https://github.com/OpenXcom/OpenXcom)** — X-COM engine recreation.
 - **[OpenMW](https://github.com/OpenMW/openmw)** — Morrowind engine reimplementation.
 - **[DevilutionX](https://github.com/diasurgical/devilutionX)** — Diablo/Hellfire engine port with enhancements.
+- **[DRIG](https://github.com/PipeKnight/drig-race-driver)** — Rust and Bevy reimplementation of Race Driver: GRID (2008). Requires the original PC game data.
 - **[Freeablo](https://github.com/wheybags/freeablo)** — Diablo I engine replacement project.
 - **[OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)** — Diablo II engine reimplementation.
 - **[OpenLara](https://github.com/XProger/OpenLara)** — Tomb Raider engine recreation.
